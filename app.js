@@ -39,6 +39,15 @@ async function loadQuestions() {
         // Update total questions display
         document.getElementById('totalQuestions').textContent = questions.length;
         document.getElementById('score').textContent = `0 / ${questions.length}`;
+        
+        // Populate question select dropdown
+        const select = document.getElementById('questionSelect');
+        for (let i = 1; i <= questions.length; i++) {
+            const option = document.createElement('option');
+            option.value = i;
+            option.textContent = `Question ${i}`;
+            select.appendChild(option);
+        }
     } catch (error) {
         throw error;
     }
@@ -56,6 +65,9 @@ function displayQuestion() {
     // Update question number and progress
     document.getElementById('questionNumber').textContent = currentQuestionIndex + 1;
     document.getElementById('progress').textContent = `${currentQuestionIndex + 1} / ${questions.length}`;
+    
+    // Update select dropdown
+    document.getElementById('questionSelect').value = currentQuestionIndex + 1;
     
     // Update progress bar
     const progressPercent = ((currentQuestionIndex + 1) / questions.length) * 100;
@@ -205,18 +217,16 @@ function previousQuestion() {
 
 // Jump to a specific question
 function jumpToQuestion() {
-    const input = document.getElementById('questionJumpInput');
-    const questionNum = parseInt(input.value);
+    const select = document.getElementById('questionSelect');
+    const questionNum = parseInt(select.value);
     
-    if (isNaN(questionNum) || questionNum < 1 || questionNum > questions.length) {
-        alert(`Please enter a number between 1 and ${questions.length}`);
+    if (isNaN(questionNum)) {
         return;
     }
     
     currentQuestionIndex = questionNum - 1;
     displayQuestion();
     window.scrollTo({ top: 0, behavior: 'smooth' });
-    input.value = '';
 }
 
 // Show results screen

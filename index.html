@@ -65,15 +65,10 @@
                 <!-- Question Jump -->
                 <div class="jump-section">
                     <div class="jump-container">
-                        <label for="questionJumpInput">Go to Question:</label>
-                        <input 
-                            type="number" 
-                            id="questionJumpInput" 
-                            placeholder="Enter question number"
-                            min="1"
-                            onkeypress="if(event.key === 'Enter') jumpToQuestion()"
-                        >
-                        <button class="btn btn-jump" onclick="jumpToQuestion()">Jump</button>
+                        <label for="questionSelect">Jump to Question:</label>
+                        <select id="questionSelect" class="question-select" onchange="jumpToQuestion()">
+                            <option value="">Select a question...</option>
+                        </select>
                     </div>
                 </div>
 

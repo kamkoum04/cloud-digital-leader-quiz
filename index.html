@@ -1,0 +1,112 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>GCP Cloud Digital Leader Exam Prep</title>
+    <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+    <div class="container">
+        <!-- Header -->
+        <header class="header">
+            <div class="header-content">
+                <h1>GCP Cloud Digital Leader</h1>
+                <p>Exam Preparation</p>
+            </div>
+        </header>
+
+        <!-- Score and Progress Card -->
+        <div class="progress-card">
+            <div class="progress-item">
+                <span class="progress-label">Score</span>
+                <span class="progress-value" id="score">0 / 0</span>
+            </div>
+            <div class="progress-item">
+                <span class="progress-label">Progress</span>
+                <span class="progress-value" id="progress">1 / 0</span>
+            </div>
+            <div class="progress-item">
+                <span class="progress-label">Accuracy</span>
+                <span class="progress-value" id="accuracy">0%</span>
+            </div>
+        </div>
+
+        <!-- Progress Bar -->
+        <div class="progress-bar-container">
+            <div class="progress-bar" id="progressBar"></div>
+        </div>
+
+        <!-- Main Content -->
+        <main class="main-content">
+            <div id="loadingMessage" class="loading-message">
+                Loading questions... Please wait
+            </div>
+
+            <div id="quizContainer" class="quiz-container" style="display: none;">
+                <!-- Question Section -->
+                <section class="question-section">
+                    <div class="question-number">
+                        Question <span id="questionNumber">1</span> of <span id="totalQuestions">0</span>
+                    </div>
+                    <h2 id="questionText" class="question-text"></h2>
+                </section>
+
+                <!-- Answer Options -->
+                <section class="answers-section">
+                    <div id="answersContainer" class="answers-grid"></div>
+                </section>
+
+                <!-- Feedback Message -->
+                <div id="feedbackMessage" class="feedback-message" style="display: none;">
+                    <span id="feedbackText"></span>
+                </div>
+
+                <!-- Navigation Buttons -->
+                <section class="navigation-buttons">
+                    <button id="prevButton" class="btn btn-secondary" onclick="previousQuestion()">
+                        ← Previous
+                    </button>
+                    <button id="nextButton" class="btn btn-primary" onclick="nextQuestion()">
+                        Next →
+                    </button>
+                </section>
+
+                <!-- Results Section -->
+                <section id="resultsSection" class="results-section" style="display: none;">
+                    <div class="results-card">
+                        <h3>Quiz Completed!</h3>
+                        <div class="results-stats">
+                            <div class="stat">
+                                <div class="stat-label">Total Correct</div>
+                                <div class="stat-value" id="finalScore">0</div>
+                            </div>
+                            <div class="stat">
+                                <div class="stat-label">Accuracy</div>
+                                <div class="stat-value" id="finalAccuracy">0%</div>
+                            </div>
+                            <div class="stat">
+                                <div class="stat-label">Total Attempted</div>
+                                <div class="stat-value" id="finalAttempted">0</div>
+                            </div>
+                        </div>
+                        <button class="btn btn-primary" onclick="restartQuiz()">
+                            Restart Quiz
+                        </button>
+                    </div>
+                </section>
+            </div>
+
+            <div id="errorMessage" class="error-message" style="display: none;"></div>
+        </main>
+
+        <!-- Footer -->
+        <footer class="footer">
+            <p>GCP Digital Leader Exam Preparation Tool</p>
+            <p class="footer-info">Practice with real exam questions</p>
+        </footer>
+    </div>
+
+    <script src="app.js"></script>
+</body>
+</html>

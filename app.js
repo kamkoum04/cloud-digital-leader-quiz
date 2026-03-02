@@ -174,27 +174,17 @@ function updateNavigationButtons() {
     const nextButton = document.getElementById('nextButton');
     
     prevButton.disabled = currentQuestionIndex === 0;
+    nextButton.disabled = currentQuestionIndex === questions.length - 1;
     
-    // Enable next button if current question is answered
-    if (answered.has(currentQuestionIndex)) {
-        nextButton.disabled = false;
-        if (currentQuestionIndex === questions.length - 1) {
-            nextButton.textContent = 'View Results →';
-        } else {
-            nextButton.textContent = 'Next →';
-        }
+    if (currentQuestionIndex === questions.length - 1) {
+        nextButton.textContent = 'View Results →';
     } else {
-        nextButton.disabled = true;
         nextButton.textContent = 'Next →';
     }
 }
 
 // Navigate to next question
 function nextQuestion() {
-    if (!answered.has(currentQuestionIndex)) {
-        return;
-    }
-    
     if (currentQuestionIndex < questions.length - 1) {
         currentQuestionIndex++;
         displayQuestion();
@@ -211,6 +201,22 @@ function previousQuestion() {
         displayQuestion();
         window.scrollTo({ top: 0, behavior: 'smooth' });
     }
+}
+
+// Jump to a specific question
+function jumpToQuestion() {
+    const input = document.getElementById('questionJumpInput');
+    const questionNum = parseInt(input.value);
+    
+    if (isNaN(questionNum) || questionNum < 1 || questionNum > questions.length) {
+        alert(`Please enter a number between 1 and ${questions.length}`);
+        return;
+    }
+    
+    currentQuestionIndex = questionNum - 1;
+    displayQuestion();
+    window.scrollTo({ top: 0, behavior: 'smooth' });
+    input.value = '';
 }
 
 // Show results screen

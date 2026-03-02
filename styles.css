@@ -319,6 +319,67 @@ body {
     margin-bottom: 20px;
 }
 
+/* Question Jump Section */
+.jump-section {
+    background: var(--card-bg);
+    padding: 20px;
+    border-radius: 8px;
+    box-shadow: var(--shadow);
+    margin-bottom: 20px;
+}
+
+.jump-container {
+    display: flex;
+    gap: 10px;
+    align-items: center;
+    justify-content: center;
+    flex-wrap: wrap;
+}
+
+.jump-container label {
+    font-weight: 600;
+    color: var(--text-primary);
+    white-space: nowrap;
+}
+
+.jump-container input {
+    padding: 10px 15px;
+    border: 2px solid var(--border-color);
+    border-radius: 6px;
+    font-size: 1rem;
+    width: 180px;
+    transition: border-color 0.3s ease;
+}
+
+.jump-container input:focus {
+    outline: none;
+    border-color: var(--accent-color);
+    box-shadow: 0 0 0 3px rgba(59, 130, 246, 0.1);
+}
+
+.btn-jump {
+    padding: 10px 20px;
+    font-size: 0.95rem;
+    font-weight: 600;
+    background-color: var(--accent-color);
+    color: white;
+    border: none;
+    border-radius: 6px;
+    cursor: pointer;
+    transition: all 0.3s ease;
+    white-space: nowrap;
+}
+
+.btn-jump:hover {
+    background-color: var(--accent-hover);
+    transform: translateY(-2px);
+    box-shadow: var(--shadow);
+}
+
+.btn-jump:active {
+    transform: translateY(0);
+}
+
 .btn {
     padding: 12px 30px;
     font-size: 1rem;
@@ -468,6 +529,19 @@ body {
 
     .answer-text {
         font-size: 0.95rem;
+    }
+
+    .jump-container {
+        flex-direction: column;
+        gap: 10px;
+    }
+
+    .jump-container input {
+        width: 100%;
+    }
+
+    .btn-jump {
+        width: 100%;
     }
 
     .navigation-buttons {

@@ -11,8 +11,17 @@
         <!-- Header -->
         <header class="header">
             <div class="header-content">
-                <h1>GCP Cloud Digital Leader</h1>
-                <p>Exam Preparation</p>
+                <h1 id="quizTitle">Exam Preparation</h1>
+                <div class="file-selector-container">
+                    <label for="examFileSelect">Choose Exam:</label>
+                    <select id="examFileSelect" class="exam-select" onchange="loadSelectedExam()">
+                        <option value="gcp_cloud_digital_leader_questions_20260301_181630.json" selected>GCP Cloud Digital Leader</option>
+                        <option value="saa_c03_questions_20260302_171034.json">AWS Solution Architect Associate (SAA-C03)</option>
+                        <option value="dva_c02_questions_20260302_192417.json">AWS Developer Associate (DVA-C02)</option>
+                        <option value="terraform_questions_20251015_233257.json">HashiCorp Terraform Associate</option>
+                        <option value="pcap_questions_20251129_194901.json">Python Certified Associate (PCAP)</option>
+                    </select>
+                </div>
             </div>
         </header>
 

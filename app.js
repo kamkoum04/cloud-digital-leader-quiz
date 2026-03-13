@@ -9,18 +9,47 @@ let userAnswers = {};
 document.addEventListener('DOMContentLoaded', async () => {
     try {
         await loadQuestions();
-        displayQuestion();
     } catch (error) {
-        showError('Failed to load questions. Please make sure questions.json is in the same directory.');
+        showError('Failed to load questions. Please make sure the JSON files are in the same directory.');
         console.error('Error:', error);
     }
 });
 
-// Load questions from JSON file
-async function loadQuestions() {
+// Load the selected exam
+async function loadSelectedExam() {
+    const fileSelect = document.getElementById('examFileSelect');
+    const selectedFile = fileSelect.value;
+    const selectedText = fileSelect.options[fileSelect.selectedIndex].text;
+    
+    // Reset state
+    questions = [];
+    currentQuestionIndex = 0;
+    score = 0;
+    answered = new Set();
+    userAnswers = {};
+    
+    // Update UI title
+    document.getElementById('quizTitle').textContent = selectedText;
+    
+    // Show loading
+    document.getElementById('loadingMessage').style.display = 'block';
+    document.getElementById('quizContainer').style.display = 'none';
+    document.getElementById('resultsSection').style.display = 'none';
+    
+    // Load new questions
     try {
-        // Try to load from the JSON file in the same directory
-        const response = await fetch('./gcp_cloud_digital_leader_questions_20260301_181630.json');
+        await loadQuestions(selectedFile);
+    } catch (error) {
+        showError('Failed to load questions: ' + error.message);
+    }
+}
+
+// Load questions from JSON file
+async function loadQuestions(fileName) {
+    try {
+        const fileToFetch = fileName || document.getElementById('examFileSelect').value || './gcp_cloud_digital_leader_questions_20260301_181630.json';
+        
+        const response = await fetch(`./${fileToFetch}`);
         
         if (!response.ok) {
             throw new Error('Failed to fetch questions');
@@ -36,18 +65,26 @@ async function loadQuestions() {
         document.getElementById('loadingMessage').style.display = 'none';
         document.getElementById('quizContainer').style.display = 'block';
         
+        // Show sections that might have been hidden by showResults
+        document.querySelector('.question-section').style.display = 'block';
+        document.querySelector('.answers-section').style.display = 'block';
+        document.querySelector('.navigation-buttons').style.display = 'flex';
+        
         // Update total questions display
         document.getElementById('totalQuestions').textContent = questions.length;
         document.getElementById('score').textContent = `0 / ${questions.length}`;
         
-        // Populate question select dropdown
+        // Clear and populate question select dropdown
         const select = document.getElementById('questionSelect');
+        select.innerHTML = '<option value="">Select a question...</option>';
         for (let i = 1; i <= questions.length; i++) {
             const option = document.createElement('option');
             option.value = i;
             option.textContent = `Question ${i}`;
             select.appendChild(option);
         }
+        
+        displayQuestion();
     } catch (error) {
         throw error;
     }

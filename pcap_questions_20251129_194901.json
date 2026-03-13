@@ -1,0 +1,5900 @@
+[
+  {
+    "question_number": 1,
+    "question_id": "806809",
+    "url": "https://www.examtopics.com/discussions/python-institute/view/30836-exam-pcap-topic-1-question-1-discussion/",
+    "question_text": "What will be the value of the i variable when the while e loop finishes its execution?",
+    "has_images": true,
+    "images": [
+      "https://www.examtopics.com/assets/media/exam-media/04235/0000200001.png"
+    ],
+    "choices": [
+      {
+        "letter": "A",
+        "text": "1Most Voted",
+        "is_correct": true
+      },
+      {
+        "letter": "B",
+        "text": "0",
+        "is_correct": false
+      },
+      {
+        "letter": "C",
+        "text": "2",
+        "is_correct": false
+      },
+      {
+        "letter": "D",
+        "text": "the variable becomes unavailable",
+        "is_correct": false
+      }
+    ],
+    "correct_answer": "A",
+    "voting_data": [
+      {
+        "voted_answers": "A",
+        "vote_count": 11,
+        "is_most_voted": true
+      },
+      {
+        "voted_answers": "D",
+        "vote_count": 1,
+        "is_most_voted": false
+      },
+      {
+        "voted_answers": "B",
+        "vote_count": 1,
+        "is_most_voted": false
+      }
+    ],
+    "scraped_at": "2025-11-29T19:49:23.972693"
+  },
+  {
+    "question_number": 2,
+    "question_id": "806810",
+    "url": "https://www.examtopics.com/discussions/python-institute/view/72326-exam-pcap-topic-1-question-2-discussion/",
+    "question_text": "And operator able to perform bitwise shifts is coded as (Choose two.)",
+    "has_images": false,
+    "images": [],
+    "choices": [
+      {
+        "letter": "A",
+        "text": "--",
+        "is_correct": false
+      },
+      {
+        "letter": "B",
+        "text": "++",
+        "is_correct": false
+      },
+      {
+        "letter": "C",
+        "text": "<<Most Voted",
+        "is_correct": true
+      },
+      {
+        "letter": "D",
+        "text": ">>Most Voted",
+        "is_correct": true
+      }
+    ],
+    "correct_answer": "CD",
+    "voting_data": [
+      {
+        "voted_answers": "CD",
+        "vote_count": 9,
+        "is_most_voted": true
+      }
+    ],
+    "scraped_at": "2025-11-29T19:49:29.394404"
+  },
+  {
+    "question_number": 3,
+    "question_id": "806811",
+    "url": "https://www.examtopics.com/discussions/python-institute/view/16126-exam-pcap-topic-1-question-3-discussion/",
+    "question_text": "What will the value of the i variable be when the following loop finishes its execution?",
+    "has_images": true,
+    "images": [
+      "https://www.examtopics.com/assets/media/exam-media/04235/0000400001.jpg"
+    ],
+    "choices": [
+      {
+        "letter": "A",
+        "text": "10",
+        "is_correct": false
+      },
+      {
+        "letter": "B",
+        "text": "the variable becomes unavailable",
+        "is_correct": false
+      },
+      {
+        "letter": "C",
+        "text": "11",
+        "is_correct": false
+      },
+      {
+        "letter": "D",
+        "text": "9Most Voted",
+        "is_correct": true
+      }
+    ],
+    "correct_answer": "D",
+    "voting_data": [
+      {
+        "voted_answers": "D",
+        "vote_count": 16,
+        "is_most_voted": true
+      },
+      {
+        "voted_answers": "C",
+        "vote_count": 1,
+        "is_most_voted": false
+      },
+      {
+        "voted_answers": "B",
+        "vote_count": 1,
+        "is_most_voted": false
+      }
+    ],
+    "scraped_at": "2025-11-29T19:49:35.122500"
+  },
+  {
+    "question_number": 4,
+    "question_id": "806812",
+    "url": "https://www.examtopics.com/discussions/python-institute/view/75101-exam-pcap-topic-1-question-4-discussion/",
+    "question_text": "The following expression -is:",
+    "has_images": true,
+    "images": [
+      "https://www.examtopics.com/assets/media/exam-media/04235/0000400002.png"
+    ],
+    "choices": [
+      {
+        "letter": "A",
+        "text": "equal to 1",
+        "is_correct": false
+      },
+      {
+        "letter": "B",
+        "text": "invalid",
+        "is_correct": false
+      },
+      {
+        "letter": "C",
+        "text": "equal to 2",
+        "is_correct": false
+      },
+      {
+        "letter": "D",
+        "text": "equal to -1Most Voted",
+        "is_correct": true
+      }
+    ],
+    "correct_answer": "D",
+    "voting_data": [
+      {
+        "voted_answers": "D",
+        "vote_count": 8,
+        "is_most_voted": true
+      }
+    ],
+    "scraped_at": "2025-11-29T19:49:40.631573"
+  },
+  {
+    "question_number": 5,
+    "question_id": "806813",
+    "url": "https://www.examtopics.com/discussions/python-institute/view/66818-exam-pcap-topic-1-question-5-discussion/",
+    "question_text": "A compiler is a program designed to (Choose two.)",
+    "has_images": false,
+    "images": [],
+    "choices": [
+      {
+        "letter": "A",
+        "text": "rearrange the source code to make it clearer",
+        "is_correct": false
+      },
+      {
+        "letter": "B",
+        "text": "check the source code in order to see of it's correctMost Voted",
+        "is_correct": true
+      },
+      {
+        "letter": "C",
+        "text": "execute the source code",
+        "is_correct": false
+      },
+      {
+        "letter": "D",
+        "text": "translate the source code into machine codeMost Voted",
+        "is_correct": true
+      }
+    ],
+    "correct_answer": "BD",
+    "voting_data": [
+      {
+        "voted_answers": "BD",
+        "vote_count": 10,
+        "is_most_voted": true
+      },
+      {
+        "voted_answers": "D",
+        "vote_count": 2,
+        "is_most_voted": false
+      }
+    ],
+    "scraped_at": "2025-11-29T19:49:46.071581"
+  },
+  {
+    "question_number": 6,
+    "question_id": "806814",
+    "url": "https://www.examtopics.com/discussions/python-institute/view/63147-exam-pcap-topic-1-question-6-discussion/",
+    "question_text": "What is the output of the following piece of code?",
+    "has_images": true,
+    "images": [
+      "https://www.examtopics.com/assets/media/exam-media/04235/0000600001.png"
+    ],
+    "choices": [
+      {
+        "letter": "A",
+        "text": "ant' bat' camel",
+        "is_correct": false
+      },
+      {
+        "letter": "B",
+        "text": "antג€batג€ camelMost Voted",
+        "is_correct": true
+      },
+      {
+        "letter": "C",
+        "text": "antbatcamel",
+        "is_correct": false
+      },
+      {
+        "letter": "D",
+        "text": "print (a, b, c, sep= ' ג€ ')",
+        "is_correct": false
+      }
+    ],
+    "correct_answer": "B",
+    "voting_data": [
+      {
+        "voted_answers": "B",
+        "vote_count": 11,
+        "is_most_voted": true
+      },
+      {
+        "voted_answers": "D",
+        "vote_count": 3,
+        "is_most_voted": false
+      },
+      {
+        "voted_answers": "C",
+        "vote_count": 2,
+        "is_most_voted": false
+      }
+    ],
+    "scraped_at": "2025-11-29T19:49:51.715064"
+  },
+  {
+    "question_number": 7,
+    "question_id": "806815",
+    "url": "https://www.examtopics.com/discussions/python-institute/view/26916-exam-pcap-topic-1-question-7-discussion/",
+    "question_text": "What is the expected output of the following snippet?",
+    "has_images": true,
+    "images": [
+      "https://www.examtopics.com/assets/media/exam-media/04235/0000700001.jpg"
+    ],
+    "choices": [
+      {
+        "letter": "A",
+        "text": "the code is erroneousMost Voted",
+        "is_correct": true
+      },
+      {
+        "letter": "B",
+        "text": "3",
+        "is_correct": false
+      },
+      {
+        "letter": "C",
+        "text": "7",
+        "is_correct": false
+      },
+      {
+        "letter": "D",
+        "text": "15",
+        "is_correct": false
+      }
+    ],
+    "correct_answer": "A",
+    "voting_data": [
+      {
+        "voted_answers": "A",
+        "vote_count": 17,
+        "is_most_voted": true
+      },
+      {
+        "voted_answers": "B",
+        "vote_count": 1,
+        "is_most_voted": false
+      }
+    ],
+    "scraped_at": "2025-11-29T19:49:57.581104"
+  },
+  {
+    "question_number": 8,
+    "question_id": "806816",
+    "url": "https://www.examtopics.com/discussions/python-institute/view/16007-exam-pcap-topic-1-question-8-discussion/",
+    "question_text": "How many lines does the following snippet output?",
+    "has_images": true,
+    "images": [
+      "https://www.examtopics.com/assets/media/exam-media/04235/0000800001.jpg"
+    ],
+    "choices": [
+      {
+        "letter": "A",
+        "text": "three",
+        "is_correct": false
+      },
+      {
+        "letter": "B",
+        "text": "oneMost Voted",
+        "is_correct": true
+      },
+      {
+        "letter": "C",
+        "text": "two",
+        "is_correct": false
+      },
+      {
+        "letter": "D",
+        "text": "four",
+        "is_correct": false
+      }
+    ],
+    "correct_answer": "B",
+    "voting_data": [
+      {
+        "voted_answers": "B",
+        "vote_count": 21,
+        "is_most_voted": true
+      },
+      {
+        "voted_answers": "A",
+        "vote_count": 7,
+        "is_most_voted": false
+      },
+      {
+        "voted_answers": "C",
+        "vote_count": 2,
+        "is_most_voted": false
+      },
+      {
+        "voted_answers": "D",
+        "vote_count": 1,
+        "is_most_voted": false
+      }
+    ],
+    "scraped_at": "2025-11-29T19:50:03.123206"
+  },
+  {
+    "question_number": 9,
+    "question_id": "806817",
+    "url": "https://www.examtopics.com/discussions/python-institute/view/68555-exam-pcap-topic-1-question-9-discussion/",
+    "question_text": "Which of the following literals reflect the value given as 34.23? (Choose two.)",
+    "has_images": false,
+    "images": [],
+    "choices": [
+      {
+        "letter": "A",
+        "text": ".3423e2Most Voted",
+        "is_correct": true
+      },
+      {
+        "letter": "B",
+        "text": "3423e-2Most Voted",
+        "is_correct": true
+      },
+      {
+        "letter": "C",
+        "text": ".3423e-2",
+        "is_correct": false
+      },
+      {
+        "letter": "D",
+        "text": "3423e2",
+        "is_correct": false
+      }
+    ],
+    "correct_answer": "AB",
+    "voting_data": [
+      {
+        "voted_answers": "AB",
+        "vote_count": 7,
+        "is_most_voted": true
+      },
+      {
+        "voted_answers": "BC",
+        "vote_count": 1,
+        "is_most_voted": false
+      }
+    ],
+    "scraped_at": "2025-11-29T19:50:08.499983"
+  },
+  {
+    "question_number": 10,
+    "question_id": "806818",
+    "url": "https://www.examtopics.com/discussions/python-institute/view/3578-exam-pcap-topic-1-question-10-discussion/",
+    "question_text": "What is the expected output of the following snippet?",
+    "has_images": true,
+    "images": [
+      "https://www.examtopics.com/assets/media/exam-media/04235/0000900002.jpg"
+    ],
+    "choices": [
+      {
+        "letter": "A",
+        "text": "3",
+        "is_correct": false
+      },
+      {
+        "letter": "B",
+        "text": "1",
+        "is_correct": false
+      },
+      {
+        "letter": "C",
+        "text": "2",
+        "is_correct": false
+      },
+      {
+        "letter": "D",
+        "text": "the code is erroneousMost Voted",
+        "is_correct": true
+      }
+    ],
+    "correct_answer": "D",
+    "voting_data": [
+      {
+        "voted_answers": "D",
+        "vote_count": 13,
+        "is_most_voted": true
+      },
+      {
+        "voted_answers": "A",
+        "vote_count": 1,
+        "is_most_voted": false
+      }
+    ],
+    "scraped_at": "2025-11-29T19:50:14.204173"
+  },
+  {
+    "question_number": 11,
+    "question_id": "806819",
+    "url": "https://www.examtopics.com/discussions/python-institute/view/75057-exam-pcap-topic-1-question-11-discussion/",
+    "question_text": "Assuming that the following snippet has been successfully executed, which of the equations are True? (Choose two.)",
+    "has_images": true,
+    "images": [
+      "https://www.examtopics.com/assets/media/exam-media/04235/0001000002.jpg"
+    ],
+    "choices": [
+      {
+        "letter": "A",
+        "text": "len(a) == len (b)Most Voted",
+        "is_correct": true
+      },
+      {
+        "letter": "B",
+        "text": "b [0] +1 ==a [0]",
+        "is_correct": false
+      },
+      {
+        "letter": "C",
+        "text": "a [0] == b [0]Most Voted",
+        "is_correct": true
+      },
+      {
+        "letter": "D",
+        "text": "a [0] + 1 ==b [0]",
+        "is_correct": false
+      }
+    ],
+    "correct_answer": "AC",
+    "voting_data": [
+      {
+        "voted_answers": "AC",
+        "vote_count": 20,
+        "is_most_voted": true
+      },
+      {
+        "voted_answers": "AD",
+        "vote_count": 3,
+        "is_most_voted": false
+      }
+    ],
+    "scraped_at": "2025-11-29T19:50:19.936706"
+  },
+  {
+    "question_number": 12,
+    "question_id": "806820",
+    "url": "https://www.examtopics.com/discussions/python-institute/view/63161-exam-pcap-topic-1-question-12-discussion/",
+    "question_text": "Assuming that the following snippet has been successfully executed, which of the equations are False? (Choose two.)",
+    "has_images": true,
+    "images": [
+      "https://www.examtopics.com/assets/media/exam-media/04235/0001100002.jpg"
+    ],
+    "choices": [
+      {
+        "letter": "A",
+        "text": "len(a)== len (b)",
+        "is_correct": false
+      },
+      {
+        "letter": "B",
+        "text": "a [0]-1 ==b [0]",
+        "is_correct": false
+      },
+      {
+        "letter": "C",
+        "text": "a [0]== b [0]Most Voted",
+        "is_correct": true
+      },
+      {
+        "letter": "D",
+        "text": "b [0] - 1 ==a [0]Most Voted",
+        "is_correct": true
+      }
+    ],
+    "correct_answer": "CD",
+    "voting_data": [
+      {
+        "voted_answers": "CD",
+        "vote_count": 17,
+        "is_most_voted": true
+      }
+    ],
+    "scraped_at": "2025-11-29T19:50:25.665409"
+  },
+  {
+    "question_number": 13,
+    "question_id": "806821",
+    "url": "https://www.examtopics.com/discussions/python-institute/view/65451-exam-pcap-topic-1-question-13-discussion/",
+    "question_text": "Which of the following statements are true? (Choose two.)",
+    "has_images": false,
+    "images": [],
+    "choices": [
+      {
+        "letter": "A",
+        "text": "Python strings are actually lists",
+        "is_correct": false
+      },
+      {
+        "letter": "B",
+        "text": "Python strings can be concatenatedMost Voted",
+        "is_correct": true
+      },
+      {
+        "letter": "C",
+        "text": "Python strings can be sliced like listsMost Voted",
+        "is_correct": true
+      },
+      {
+        "letter": "D",
+        "text": "Python strings are mutable",
+        "is_correct": false
+      }
+    ],
+    "correct_answer": "BC",
+    "voting_data": [
+      {
+        "voted_answers": "BC",
+        "vote_count": 5,
+        "is_most_voted": true
+      }
+    ],
+    "scraped_at": "2025-11-29T19:50:30.956485"
+  },
+  {
+    "question_number": 14,
+    "question_id": "806822",
+    "url": "https://www.examtopics.com/discussions/python-institute/view/65453-exam-pcap-topic-1-question-14-discussion/",
+    "question_text": "Which of the following sentences are true? (Choose two.)",
+    "has_images": false,
+    "images": [],
+    "choices": [
+      {
+        "letter": "A",
+        "text": "Lists may not be stored inside tuples",
+        "is_correct": false
+      },
+      {
+        "letter": "B",
+        "text": "Tuples may be stored inside listsMost Voted",
+        "is_correct": true
+      },
+      {
+        "letter": "C",
+        "text": "Tuples may not be stored inside tuples",
+        "is_correct": false
+      },
+      {
+        "letter": "D",
+        "text": "Lists may be stored inside listsMost Voted",
+        "is_correct": true
+      }
+    ],
+    "correct_answer": "BD",
+    "voting_data": [
+      {
+        "voted_answers": "BD",
+        "vote_count": 3,
+        "is_most_voted": true
+      }
+    ],
+    "scraped_at": "2025-11-29T19:50:36.457298"
+  },
+  {
+    "question_number": 15,
+    "question_id": "806823",
+    "url": "https://www.examtopics.com/discussions/python-institute/view/16483-exam-pcap-topic-1-question-15-discussion/",
+    "question_text": "Assuming that String is six or more letters long, the following sliceis shorter than the original string by:",
+    "has_images": true,
+    "images": [
+      "https://www.examtopics.com/assets/media/exam-media/04235/0001300001.png"
+    ],
+    "choices": [
+      {
+        "letter": "A",
+        "text": "four chars",
+        "is_correct": false
+      },
+      {
+        "letter": "B",
+        "text": "three charsMost Voted",
+        "is_correct": true
+      },
+      {
+        "letter": "C",
+        "text": "one char",
+        "is_correct": false
+      },
+      {
+        "letter": "D",
+        "text": "two chars",
+        "is_correct": false
+      }
+    ],
+    "correct_answer": "B",
+    "voting_data": [
+      {
+        "voted_answers": "B",
+        "vote_count": 1,
+        "is_most_voted": true
+      }
+    ],
+    "scraped_at": "2025-11-29T19:50:42.489620"
+  },
+  {
+    "question_number": 16,
+    "question_id": "806824",
+    "url": "https://www.examtopics.com/discussions/python-institute/view/50276-exam-pcap-topic-1-question-16-discussion/",
+    "question_text": "What is the expected output of the following snippet?",
+    "has_images": true,
+    "images": [
+      "https://www.examtopics.com/assets/media/exam-media/04235/0001300002.jpg"
+    ],
+    "choices": [
+      {
+        "letter": "A",
+        "text": "1",
+        "is_correct": false
+      },
+      {
+        "letter": "B",
+        "text": "4",
+        "is_correct": false
+      },
+      {
+        "letter": "C",
+        "text": "2Most Voted",
+        "is_correct": true
+      },
+      {
+        "letter": "D",
+        "text": "3",
+        "is_correct": false
+      }
+    ],
+    "correct_answer": "C",
+    "voting_data": [
+      {
+        "voted_answers": "C",
+        "vote_count": 8,
+        "is_most_voted": true
+      }
+    ],
+    "scraped_at": "2025-11-29T19:50:48.389353"
+  },
+  {
+    "question_number": 17,
+    "question_id": "806825",
+    "url": "https://www.examtopics.com/discussions/python-institute/view/25681-exam-pcap-topic-1-question-17-discussion/",
+    "question_text": "What is the expected output of the following snippet?",
+    "has_images": true,
+    "images": [
+      "https://www.examtopics.com/assets/media/exam-media/04235/0001400002.jpg"
+    ],
+    "choices": [
+      {
+        "letter": "A",
+        "text": "abc",
+        "is_correct": false
+      },
+      {
+        "letter": "B",
+        "text": "The code will cause a runtime exceptionMost Voted",
+        "is_correct": true
+      },
+      {
+        "letter": "C",
+        "text": "ABC",
+        "is_correct": false
+      },
+      {
+        "letter": "D",
+        "text": "123",
+        "is_correct": false
+      }
+    ],
+    "correct_answer": "B",
+    "voting_data": [
+      {
+        "voted_answers": "B",
+        "vote_count": 6,
+        "is_most_voted": true
+      }
+    ],
+    "scraped_at": "2025-11-29T19:50:53.705714"
+  },
+  {
+    "question_number": 18,
+    "question_id": "806826",
+    "url": "https://www.examtopics.com/discussions/python-institute/view/29011-exam-pcap-topic-1-question-18-discussion/",
+    "question_text": "How many elements will the list2 list contain after execution of the following snippet?",
+    "has_images": true,
+    "images": [
+      "https://www.examtopics.com/assets/media/exam-media/04235/0001500002.png"
+    ],
+    "choices": [
+      {
+        "letter": "A",
+        "text": "zero",
+        "is_correct": false
+      },
+      {
+        "letter": "B",
+        "text": "five",
+        "is_correct": false
+      },
+      {
+        "letter": "C",
+        "text": "sevenMost Voted",
+        "is_correct": true
+      },
+      {
+        "letter": "D",
+        "text": "three",
+        "is_correct": false
+      }
+    ],
+    "correct_answer": "C",
+    "voting_data": [
+      {
+        "voted_answers": "C",
+        "vote_count": 1,
+        "is_most_voted": true
+      }
+    ],
+    "scraped_at": "2025-11-29T19:50:59.428428"
+  },
+  {
+    "question_number": 19,
+    "question_id": "806827",
+    "url": "https://www.examtopics.com/discussions/python-institute/view/74963-exam-pcap-topic-1-question-19-discussion/",
+    "question_text": "What would you used instead of XXX if you want to check weather a certain 'key' exists in a dictionary called dict? (Choose two.)",
+    "has_images": true,
+    "images": [
+      "https://www.examtopics.com/assets/media/exam-media/04235/0001600002.png"
+    ],
+    "choices": [
+      {
+        "letter": "A",
+        "text": "'key' in dictMost Voted",
+        "is_correct": true
+      },
+      {
+        "letter": "B",
+        "text": "dict ['key'] != None",
+        "is_correct": false
+      },
+      {
+        "letter": "C",
+        "text": "dict.exists ('key')",
+        "is_correct": false
+      },
+      {
+        "letter": "D",
+        "text": "'key' in dict.keys ( )Most Voted",
+        "is_correct": true
+      }
+    ],
+    "correct_answer": "AD",
+    "voting_data": [
+      {
+        "voted_answers": "AD",
+        "vote_count": 13,
+        "is_most_voted": true
+      },
+      {
+        "voted_answers": "AB",
+        "vote_count": 2,
+        "is_most_voted": false
+      },
+      {
+        "voted_answers": "BD",
+        "vote_count": 2,
+        "is_most_voted": false
+      }
+    ],
+    "scraped_at": "2025-11-29T19:51:05.021749"
+  },
+  {
+    "question_number": 20,
+    "question_id": "806828",
+    "url": "https://www.examtopics.com/discussions/python-institute/view/63125-exam-pcap-topic-1-question-20-discussion/",
+    "question_text": "You need data which can act as a simple telephone directory. You can obtain it with the following clauses (Choose two.) (assume that no other items have been created before)",
+    "has_images": false,
+    "images": [],
+    "choices": [
+      {
+        "letter": "A",
+        "text": "dir={'Mom': 5551234567, 'Dad': 5557654321}Most Voted",
+        "is_correct": true
+      },
+      {
+        "letter": "B",
+        "text": "dir= {'Mom': '5551234567', 'Dad': '5557654321'}Most Voted",
+        "is_correct": true
+      },
+      {
+        "letter": "C",
+        "text": "dir= {Mom: 5551234567, Dad: 5557654321}",
+        "is_correct": false
+      },
+      {
+        "letter": "D",
+        "text": "dir= {Mom: '5551234567', Dad: '5557654321'}",
+        "is_correct": false
+      }
+    ],
+    "correct_answer": "AB",
+    "voting_data": [
+      {
+        "voted_answers": "AB",
+        "vote_count": 28,
+        "is_most_voted": true
+      }
+    ],
+    "scraped_at": "2025-11-29T19:51:10.747032"
+  },
+  {
+    "question_number": 21,
+    "question_id": "806829",
+    "url": "https://www.examtopics.com/discussions/python-institute/view/3584-exam-pcap-topic-1-question-21-discussion/",
+    "question_text": "Can a module run like regular code?",
+    "has_images": false,
+    "images": [],
+    "choices": [
+      {
+        "letter": "A",
+        "text": "yes, and it can differentiate its behavior between the regular launch and importMost Voted",
+        "is_correct": true
+      },
+      {
+        "letter": "B",
+        "text": "it depends on the Python version",
+        "is_correct": false
+      },
+      {
+        "letter": "C",
+        "text": "yes, but in cannot differentiate its behavior between the regular launch and import",
+        "is_correct": false
+      },
+      {
+        "letter": "D",
+        "text": "no, it is not possible; a module can be imported, not run",
+        "is_correct": false
+      }
+    ],
+    "correct_answer": "A",
+    "voting_data": [
+      {
+        "voted_answers": "A",
+        "vote_count": 2,
+        "is_most_voted": true
+      }
+    ],
+    "scraped_at": "2025-11-29T19:51:16.460177"
+  },
+  {
+    "question_number": 22,
+    "question_id": "806830",
+    "url": "https://www.examtopics.com/discussions/python-institute/view/70146-exam-pcap-topic-1-question-22-discussion/",
+    "question_text": "Select the valid fun () invocations:(Choose two.)",
+    "has_images": true,
+    "images": [
+      "https://www.examtopics.com/assets/media/exam-media/04235/0001700001.png"
+    ],
+    "choices": [
+      {
+        "letter": "A",
+        "text": "fun (b=1)",
+        "is_correct": false
+      },
+      {
+        "letter": "B",
+        "text": "fun (a=0)Most Voted",
+        "is_correct": true
+      },
+      {
+        "letter": "C",
+        "text": "fun (b=1, 0)",
+        "is_correct": false
+      },
+      {
+        "letter": "D",
+        "text": "fun (1)Most Voted",
+        "is_correct": true
+      }
+    ],
+    "correct_answer": "BD",
+    "voting_data": [
+      {
+        "voted_answers": "BD",
+        "vote_count": 8,
+        "is_most_voted": true
+      }
+    ],
+    "scraped_at": "2025-11-29T19:51:22.060711"
+  },
+  {
+    "question_number": 23,
+    "question_id": "806831",
+    "url": "https://www.examtopics.com/discussions/python-institute/view/79782-exam-pcap-topic-1-question-23-discussion/",
+    "question_text": "A file name like this one below says that:(Choose three.)services, cpython 36.pyc",
+    "has_images": false,
+    "images": [],
+    "choices": [
+      {
+        "letter": "A",
+        "text": "the interpreter used to generate the file is version 3.6Most Voted",
+        "is_correct": true
+      },
+      {
+        "letter": "B",
+        "text": "it has been produced by CPythonMost Voted",
+        "is_correct": true
+      },
+      {
+        "letter": "C",
+        "text": "it is the 36 version of the file",
+        "is_correct": false
+      },
+      {
+        "letter": "D",
+        "text": "the file comes from the services.py source fileMost Voted",
+        "is_correct": true
+      }
+    ],
+    "correct_answer": "ABD",
+    "voting_data": [
+      {
+        "voted_answers": "ABD",
+        "vote_count": 5,
+        "is_most_voted": true
+      }
+    ],
+    "scraped_at": "2025-11-29T19:51:27.504138"
+  },
+  {
+    "question_number": 24,
+    "question_id": "806832",
+    "url": "https://www.examtopics.com/discussions/python-institute/view/75103-exam-pcap-topic-1-question-24-discussion/",
+    "question_text": "What is the expected behavior of the following snippet?It will:",
+    "has_images": true,
+    "images": [
+      "https://www.examtopics.com/assets/media/exam-media/04235/0001900001.jpg"
+    ],
+    "choices": [
+      {
+        "letter": "A",
+        "text": "cause a runtime exceptionMost Voted",
+        "is_correct": true
+      },
+      {
+        "letter": "B",
+        "text": "print 1",
+        "is_correct": false
+      },
+      {
+        "letter": "C",
+        "text": "print 0, [1]",
+        "is_correct": false
+      },
+      {
+        "letter": "D",
+        "text": "print [1]",
+        "is_correct": false
+      }
+    ],
+    "correct_answer": "A",
+    "voting_data": [
+      {
+        "voted_answers": "A",
+        "vote_count": 1,
+        "is_most_voted": true
+      }
+    ],
+    "scraped_at": "2025-11-29T19:51:33.013631"
+  },
+  {
+    "question_number": 25,
+    "question_id": "806833",
+    "url": "https://www.examtopics.com/discussions/python-institute/view/59293-exam-pcap-topic-1-question-25-discussion/",
+    "question_text": "What can you do if you don't like a long package path like this one?",
+    "has_images": true,
+    "images": [
+      "https://www.examtopics.com/assets/media/exam-media/04235/0002000001.png"
+    ],
+    "choices": [
+      {
+        "letter": "A",
+        "text": "you can make an alias for the name using the alias keyword",
+        "is_correct": false
+      },
+      {
+        "letter": "B",
+        "text": "nothing, you need to come to terms with it",
+        "is_correct": false
+      },
+      {
+        "letter": "C",
+        "text": "you can shorten it to alpha . zeta and Python will find the proper connection",
+        "is_correct": false
+      },
+      {
+        "letter": "D",
+        "text": "you can make an alias for the name using the as keywordMost Voted",
+        "is_correct": true
+      }
+    ],
+    "correct_answer": "D",
+    "voting_data": [
+      {
+        "voted_answers": "D",
+        "vote_count": 3,
+        "is_most_voted": true
+      },
+      {
+        "voted_answers": "B",
+        "vote_count": 1,
+        "is_most_voted": false
+      }
+    ],
+    "scraped_at": "2025-11-29T19:51:38.416803"
+  },
+  {
+    "question_number": 26,
+    "question_id": "806834",
+    "url": "https://www.examtopics.com/discussions/python-institute/view/53344-exam-pcap-topic-1-question-26-discussion/",
+    "question_text": "What is the expected output of the following code?",
+    "has_images": true,
+    "images": [
+      "https://www.examtopics.com/assets/media/exam-media/04235/0002000002.jpg"
+    ],
+    "choices": [
+      {
+        "letter": "A",
+        "text": "abcef",
+        "is_correct": false
+      },
+      {
+        "letter": "B",
+        "text": "The program will cause a runtime exception/errorMost Voted",
+        "is_correct": true
+      },
+      {
+        "letter": "C",
+        "text": "acdef",
+        "is_correct": false
+      },
+      {
+        "letter": "D",
+        "text": "abdef",
+        "is_correct": false
+      }
+    ],
+    "correct_answer": "B",
+    "voting_data": [
+      {
+        "voted_answers": "B",
+        "vote_count": 3,
+        "is_most_voted": true
+      }
+    ],
+    "scraped_at": "2025-11-29T19:51:43.935259"
+  },
+  {
+    "question_number": 27,
+    "question_id": "920255",
+    "url": "https://www.examtopics.com/discussions/python-institute/view/143080-exam-pcap-31-03-topic-1-question-27-discussion/",
+    "question_text": "Which of the following lines of code will work flawlessly when put independently inside the add_new() method in order to make the snippet’s output equal to [0, 1, 1]? (Choose two.)",
+    "has_images": true,
+    "images": [
+      "https://img.examtopics.com/pcap-31-03/image17.png"
+    ],
+    "choices": [
+      {
+        "letter": "A",
+        "text": "self.put(self.store[1])Most Voted",
+        "is_correct": true
+      },
+      {
+        "letter": "B",
+        "text": "self.put(self.get()[-1])Most Voted",
+        "is_correct": true
+      },
+      {
+        "letter": "C",
+        "text": "self.put(store[1])",
+        "is_correct": false
+      },
+      {
+        "letter": "D",
+        "text": "put(self.store[1])",
+        "is_correct": false
+      }
+    ],
+    "correct_answer": "AB",
+    "voting_data": [
+      {
+        "voted_answers": "AB",
+        "vote_count": 1,
+        "is_most_voted": true
+      }
+    ],
+    "scraped_at": "2025-11-29T19:51:50.085466"
+  },
+  {
+    "question_number": 28,
+    "question_id": "806836",
+    "url": "https://www.examtopics.com/discussions/python-institute/view/28254-exam-pcap-topic-1-question-28-discussion/",
+    "question_text": "What is the expected behavior of the following snippet?It will:",
+    "has_images": true,
+    "images": [
+      "https://www.examtopics.com/assets/media/exam-media/04235/0002300001.jpg"
+    ],
+    "choices": [
+      {
+        "letter": "A",
+        "text": "cause a runtime exception on line 02",
+        "is_correct": false
+      },
+      {
+        "letter": "B",
+        "text": "cause a runtime exception on line 01",
+        "is_correct": false
+      },
+      {
+        "letter": "C",
+        "text": "cause a runtime exception on line 03",
+        "is_correct": false
+      },
+      {
+        "letter": "D",
+        "text": "print 3Most Voted",
+        "is_correct": true
+      }
+    ],
+    "correct_answer": "D",
+    "voting_data": [
+      {
+        "voted_answers": "D",
+        "vote_count": 3,
+        "is_most_voted": true
+      }
+    ],
+    "scraped_at": "2025-11-29T19:51:56.097222"
+  },
+  {
+    "question_number": 29,
+    "question_id": "806837",
+    "url": "https://www.examtopics.com/discussions/python-institute/view/41805-exam-pcap-topic-1-question-29-discussion/",
+    "question_text": "What is the expected behavior of the following code?It will:",
+    "has_images": true,
+    "images": [
+      "https://www.examtopics.com/assets/media/exam-media/04235/0002400002.jpg"
+    ],
+    "choices": [
+      {
+        "letter": "A",
+        "text": "print 4321",
+        "is_correct": false
+      },
+      {
+        "letter": "B",
+        "text": "print <generator object f at (some hex digits)>Most Voted",
+        "is_correct": true
+      },
+      {
+        "letter": "C",
+        "text": "cause a runtime exception",
+        "is_correct": false
+      },
+      {
+        "letter": "D",
+        "text": "print 1234",
+        "is_correct": false
+      }
+    ],
+    "correct_answer": "B",
+    "voting_data": [
+      {
+        "voted_answers": "B",
+        "vote_count": 13,
+        "is_most_voted": true
+      },
+      {
+        "voted_answers": "C",
+        "vote_count": 3,
+        "is_most_voted": false
+      }
+    ],
+    "scraped_at": "2025-11-29T19:52:01.785782"
+  },
+  {
+    "question_number": 30,
+    "question_id": "806838",
+    "url": "https://www.examtopics.com/discussions/python-institute/view/70358-exam-pcap-topic-1-question-30-discussion/",
+    "question_text": "If you need a function that does nothing, what would you use instead of XXX? (Choose two.)",
+    "has_images": true,
+    "images": [
+      "https://www.examtopics.com/assets/media/exam-media/04235/0002500002.png"
+    ],
+    "choices": [
+      {
+        "letter": "A",
+        "text": "passMost Voted",
+        "is_correct": true
+      },
+      {
+        "letter": "B",
+        "text": "returnMost Voted",
+        "is_correct": true
+      },
+      {
+        "letter": "C",
+        "text": "exit",
+        "is_correct": false
+      },
+      {
+        "letter": "D",
+        "text": "None",
+        "is_correct": false
+      }
+    ],
+    "correct_answer": "AB",
+    "voting_data": [
+      {
+        "voted_answers": "AB",
+        "vote_count": 7,
+        "is_most_voted": true
+      },
+      {
+        "voted_answers": "AD",
+        "vote_count": 3,
+        "is_most_voted": false
+      }
+    ],
+    "scraped_at": "2025-11-29T19:52:07.647427"
+  },
+  {
+    "question_number": 31,
+    "question_id": "806839",
+    "url": "https://www.examtopics.com/discussions/python-institute/view/9326-exam-pcap-topic-1-question-31-discussion/",
+    "question_text": "Is it possible to safely check if a class/object has a certain attribute?",
+    "has_images": false,
+    "images": [],
+    "choices": [
+      {
+        "letter": "A",
+        "text": "yes, by using the hasattr attribute",
+        "is_correct": false
+      },
+      {
+        "letter": "B",
+        "text": "yes, by using the hasattr ( ) methodMost Voted",
+        "is_correct": true
+      },
+      {
+        "letter": "C",
+        "text": "yes, by using the hassattr ( ) function",
+        "is_correct": false
+      },
+      {
+        "letter": "D",
+        "text": "no, it is not possible",
+        "is_correct": false
+      }
+    ],
+    "correct_answer": "B",
+    "voting_data": [
+      {
+        "voted_answers": "B",
+        "vote_count": 10,
+        "is_most_voted": true
+      },
+      {
+        "voted_answers": "C",
+        "vote_count": 10,
+        "is_most_voted": false
+      },
+      {
+        "voted_answers": "A",
+        "vote_count": 1,
+        "is_most_voted": false
+      }
+    ],
+    "scraped_at": "2025-11-29T19:52:13.282509"
+  },
+  {
+    "question_number": 32,
+    "question_id": "806840",
+    "url": "https://www.examtopics.com/discussions/python-institute/view/9330-exam-pcap-topic-1-question-32-discussion/",
+    "question_text": "The first parameter of each method:",
+    "has_images": false,
+    "images": [],
+    "choices": [
+      {
+        "letter": "A",
+        "text": "holds a reference to the currently processed objectMost Voted",
+        "is_correct": true
+      },
+      {
+        "letter": "B",
+        "text": "is always set to None",
+        "is_correct": false
+      },
+      {
+        "letter": "C",
+        "text": "is set to a unique random value",
+        "is_correct": false
+      },
+      {
+        "letter": "D",
+        "text": "is set by the first argument's value",
+        "is_correct": false
+      }
+    ],
+    "correct_answer": "A",
+    "voting_data": [
+      {
+        "voted_answers": "A",
+        "vote_count": 7,
+        "is_most_voted": true
+      }
+    ],
+    "scraped_at": "2025-11-29T19:52:18.984723"
+  },
+  {
+    "question_number": 33,
+    "question_id": "806841",
+    "url": "https://www.examtopics.com/discussions/python-institute/view/5478-exam-pcap-topic-1-question-33-discussion/",
+    "question_text": "The simplest possible class definition in Python can be expressed as:",
+    "has_images": false,
+    "images": [],
+    "choices": [
+      {
+        "letter": "A",
+        "text": "class X:",
+        "is_correct": false
+      },
+      {
+        "letter": "B",
+        "text": "class X: passMost Voted",
+        "is_correct": true
+      },
+      {
+        "letter": "C",
+        "text": "class X: return",
+        "is_correct": false
+      },
+      {
+        "letter": "D",
+        "text": "class X: { }",
+        "is_correct": false
+      }
+    ],
+    "correct_answer": "B",
+    "voting_data": [
+      {
+        "voted_answers": "B",
+        "vote_count": 12,
+        "is_most_voted": true
+      }
+    ],
+    "scraped_at": "2025-11-29T19:52:24.689932"
+  },
+  {
+    "question_number": 34,
+    "question_id": "806842",
+    "url": "https://www.examtopics.com/discussions/python-institute/view/75107-exam-pcap-topic-1-question-34-discussion/",
+    "question_text": "If you want to access an exception object's components and store them in an object called e, you have to use the following form of exception statement:",
+    "has_images": false,
+    "images": [],
+    "choices": [
+      {
+        "letter": "A",
+        "text": "except Exception (e) :",
+        "is_correct": false
+      },
+      {
+        "letter": "B",
+        "text": "except e= Exception :",
+        "is_correct": false
+      },
+      {
+        "letter": "C",
+        "text": "except Exception as e:Most Voted",
+        "is_correct": true
+      },
+      {
+        "letter": "D",
+        "text": "such an action is not possible in Python",
+        "is_correct": false
+      }
+    ],
+    "correct_answer": "C",
+    "voting_data": [
+      {
+        "voted_answers": "C",
+        "vote_count": 1,
+        "is_most_voted": true
+      }
+    ],
+    "scraped_at": "2025-11-29T19:52:30.211452"
+  },
+  {
+    "question_number": 35,
+    "question_id": "806843",
+    "url": "https://www.examtopics.com/discussions/python-institute/view/3587-exam-pcap-topic-1-question-35-discussion/",
+    "question_text": "A variable stored separately in every object is called:",
+    "has_images": false,
+    "images": [],
+    "choices": [
+      {
+        "letter": "A",
+        "text": "there are no such variables, all variables are shared among objects",
+        "is_correct": false
+      },
+      {
+        "letter": "B",
+        "text": "a class variable",
+        "is_correct": false
+      },
+      {
+        "letter": "C",
+        "text": "an object variable",
+        "is_correct": false
+      },
+      {
+        "letter": "D",
+        "text": "an instance variableMost Voted",
+        "is_correct": true
+      }
+    ],
+    "correct_answer": "D",
+    "voting_data": [
+      {
+        "voted_answers": "D",
+        "vote_count": 1,
+        "is_most_voted": true
+      }
+    ],
+    "scraped_at": "2025-11-29T19:52:36.148083"
+  },
+  {
+    "question_number": 36,
+    "question_id": "806844",
+    "url": "https://www.examtopics.com/discussions/python-institute/view/65458-exam-pcap-topic-1-question-36-discussion/",
+    "question_text": "There is a stream named s open for writing. What option will you select to write a line to the stream?",
+    "has_images": false,
+    "images": [],
+    "choices": [
+      {
+        "letter": "A",
+        "text": "s. write (ג€Hello\\nג€)Most Voted",
+        "is_correct": true
+      },
+      {
+        "letter": "B",
+        "text": "write (s, ג€Helloג€)",
+        "is_correct": false
+      },
+      {
+        "letter": "C",
+        "text": "s.writeln (ג€Helloג€)",
+        "is_correct": false
+      },
+      {
+        "letter": "D",
+        "text": "s. writeline (ג€Helloג€)",
+        "is_correct": false
+      }
+    ],
+    "correct_answer": "A",
+    "voting_data": [
+      {
+        "voted_answers": "A",
+        "vote_count": 3,
+        "is_most_voted": true
+      }
+    ],
+    "scraped_at": "2025-11-29T19:52:41.481417"
+  },
+  {
+    "question_number": 37,
+    "question_id": "806845",
+    "url": "https://www.examtopics.com/discussions/python-institute/view/75108-exam-pcap-topic-1-question-37-discussion/",
+    "question_text": "You are going to read just one character from a stream called s. Which statement would you use?",
+    "has_images": false,
+    "images": [],
+    "choices": [
+      {
+        "letter": "A",
+        "text": "ch = read (s, 1)",
+        "is_correct": false
+      },
+      {
+        "letter": "B",
+        "text": "ch= s.input (1)",
+        "is_correct": false
+      },
+      {
+        "letter": "C",
+        "text": "ch= input (s, 1)",
+        "is_correct": false
+      },
+      {
+        "letter": "D",
+        "text": "ch= s.read (1)Most Voted",
+        "is_correct": true
+      }
+    ],
+    "correct_answer": "D",
+    "voting_data": [
+      {
+        "voted_answers": "D",
+        "vote_count": 1,
+        "is_most_voted": true
+      }
+    ],
+    "scraped_at": "2025-11-29T19:52:46.981700"
+  },
+  {
+    "question_number": 38,
+    "question_id": "806846",
+    "url": "https://www.examtopics.com/discussions/python-institute/view/63128-exam-pcap-topic-1-question-38-discussion/",
+    "question_text": "What can you deduce from the following statement? (Choose two.)",
+    "has_images": true,
+    "images": [
+      "https://www.examtopics.com/assets/media/exam-media/04235/0002800001.png"
+    ],
+    "choices": [
+      {
+        "letter": "A",
+        "text": "str is a string read in from the file named file.txt",
+        "is_correct": false
+      },
+      {
+        "letter": "B",
+        "text": "a newline character translation will be performed during the readsMost Voted",
+        "is_correct": true
+      },
+      {
+        "letter": "C",
+        "text": "if file. txt does not exist, it will be created",
+        "is_correct": false
+      },
+      {
+        "letter": "D",
+        "text": "the opened file cannot be written with the use of the str variableMost Voted",
+        "is_correct": true
+      }
+    ],
+    "correct_answer": "BD",
+    "voting_data": [
+      {
+        "voted_answers": "BD",
+        "vote_count": 13,
+        "is_most_voted": true
+      },
+      {
+        "voted_answers": "AD",
+        "vote_count": 6,
+        "is_most_voted": false
+      }
+    ],
+    "scraped_at": "2025-11-29T19:52:53.165111"
+  },
+  {
+    "question_number": 39,
+    "question_id": "806847",
+    "url": "https://www.examtopics.com/discussions/python-institute/view/28030-exam-pcap-topic-1-question-39-discussion/",
+    "question_text": "The following class hierarchy is given. What is the expected out of the code?",
+    "has_images": true,
+    "images": [
+      "https://www.examtopics.com/assets/media/exam-media/04235/0002900001.jpg"
+    ],
+    "choices": [
+      {
+        "letter": "A",
+        "text": "BB",
+        "is_correct": false
+      },
+      {
+        "letter": "B",
+        "text": "CC",
+        "is_correct": false
+      },
+      {
+        "letter": "C",
+        "text": "AA",
+        "is_correct": false
+      },
+      {
+        "letter": "D",
+        "text": "BCMost Voted",
+        "is_correct": true
+      }
+    ],
+    "correct_answer": "D",
+    "voting_data": [
+      {
+        "voted_answers": "D",
+        "vote_count": 10,
+        "is_most_voted": true
+      }
+    ],
+    "scraped_at": "2025-11-29T19:52:58.517521"
+  },
+  {
+    "question_number": 40,
+    "question_id": "806848",
+    "url": "https://www.examtopics.com/discussions/python-institute/view/9324-exam-pcap-topic-1-question-40-discussion/",
+    "question_text": "Python's built in function named open () tries to open a file and returns:",
+    "has_images": false,
+    "images": [],
+    "choices": [
+      {
+        "letter": "A",
+        "text": "an integer value identifying an opened file",
+        "is_correct": false
+      },
+      {
+        "letter": "B",
+        "text": "an error code (0 means success)",
+        "is_correct": false
+      },
+      {
+        "letter": "C",
+        "text": "a stream objectMost Voted",
+        "is_correct": true
+      },
+      {
+        "letter": "D",
+        "text": "always None",
+        "is_correct": false
+      }
+    ],
+    "correct_answer": "C",
+    "voting_data": [
+      {
+        "voted_answers": "C",
+        "vote_count": 2,
+        "is_most_voted": true
+      }
+    ],
+    "scraped_at": "2025-11-29T19:53:04.034021"
+  },
+  {
+    "question_number": 41,
+    "question_id": "806849",
+    "url": "https://www.examtopics.com/discussions/python-institute/view/64484-exam-pcap-topic-1-question-41-discussion/",
+    "question_text": "Which of the following words can be used as a variable name? (Choose two.)",
+    "has_images": false,
+    "images": [],
+    "choices": [
+      {
+        "letter": "A",
+        "text": "for",
+        "is_correct": false
+      },
+      {
+        "letter": "B",
+        "text": "True",
+        "is_correct": false
+      },
+      {
+        "letter": "C",
+        "text": "trueMost Voted",
+        "is_correct": true
+      },
+      {
+        "letter": "D",
+        "text": "ForMost Voted",
+        "is_correct": true
+      }
+    ],
+    "correct_answer": "CD",
+    "voting_data": [
+      {
+        "voted_answers": "CD",
+        "vote_count": 3,
+        "is_most_voted": true
+      }
+    ],
+    "scraped_at": "2025-11-29T19:53:09.533769"
+  },
+  {
+    "question_number": 42,
+    "question_id": "806850",
+    "url": "https://www.examtopics.com/discussions/python-institute/view/75109-exam-pcap-topic-1-question-42-discussion/",
+    "question_text": "Python strings can be `glued` together using the operator:",
+    "has_images": false,
+    "images": [],
+    "choices": [
+      {
+        "letter": "A",
+        "text": ".",
+        "is_correct": false
+      },
+      {
+        "letter": "B",
+        "text": "&",
+        "is_correct": false
+      },
+      {
+        "letter": "C",
+        "text": "_",
+        "is_correct": false
+      },
+      {
+        "letter": "D",
+        "text": "+Most Voted",
+        "is_correct": true
+      }
+    ],
+    "correct_answer": "D",
+    "voting_data": [
+      {
+        "voted_answers": "D",
+        "vote_count": 4,
+        "is_most_voted": true
+      }
+    ],
+    "scraped_at": "2025-11-29T19:53:14.805536"
+  },
+  {
+    "question_number": 43,
+    "question_id": "806851",
+    "url": "https://www.examtopics.com/discussions/python-institute/view/66821-exam-pcap-topic-1-question-43-discussion/",
+    "question_text": "A keyword (Choose two.)",
+    "has_images": false,
+    "images": [],
+    "choices": [
+      {
+        "letter": "A",
+        "text": "can be used as an identifier",
+        "is_correct": false
+      },
+      {
+        "letter": "B",
+        "text": "is defined by Python's lexisMost Voted",
+        "is_correct": true
+      },
+      {
+        "letter": "C",
+        "text": "is also known as a reserved wordMost Voted",
+        "is_correct": true
+      },
+      {
+        "letter": "D",
+        "text": "cannot be used in the user's code",
+        "is_correct": false
+      }
+    ],
+    "correct_answer": "BC",
+    "voting_data": [
+      {
+        "voted_answers": "BC",
+        "vote_count": 2,
+        "is_most_voted": true
+      }
+    ],
+    "scraped_at": "2025-11-29T19:53:20.172961"
+  },
+  {
+    "question_number": 44,
+    "question_id": "806852",
+    "url": "https://www.examtopics.com/discussions/python-institute/view/36736-exam-pcap-topic-1-question-44-discussion/",
+    "question_text": "How many stars (*) does the snippet print?",
+    "has_images": true,
+    "images": [
+      "https://www.examtopics.com/assets/media/exam-media/04235/0003100001.png"
+    ],
+    "choices": [
+      {
+        "letter": "A",
+        "text": "the code is erroneousMost Voted",
+        "is_correct": true
+      },
+      {
+        "letter": "B",
+        "text": "five",
+        "is_correct": false
+      },
+      {
+        "letter": "C",
+        "text": "four",
+        "is_correct": false
+      },
+      {
+        "letter": "D",
+        "text": "two",
+        "is_correct": false
+      }
+    ],
+    "correct_answer": "A",
+    "voting_data": [
+      {
+        "voted_answers": "A",
+        "vote_count": 7,
+        "is_most_voted": true
+      }
+    ],
+    "scraped_at": "2025-11-29T19:53:25.524333"
+  },
+  {
+    "question_number": 45,
+    "question_id": "806853",
+    "url": "https://www.examtopics.com/discussions/python-institute/view/66941-exam-pcap-topic-1-question-45-discussion/",
+    "question_text": "Which line can be used instead of the comment to cause the snippet to produce the following expected output? (Choose two.)Expected output:1 2 3Code:",
+    "has_images": true,
+    "images": [
+      "https://www.examtopics.com/assets/media/exam-media/04235/0003200001.png"
+    ],
+    "choices": [
+      {
+        "letter": "A",
+        "text": "c, b, a = b, a, cMost Voted",
+        "is_correct": true
+      },
+      {
+        "letter": "B",
+        "text": "c, b, a = a, c, b",
+        "is_correct": false
+      },
+      {
+        "letter": "C",
+        "text": "a, b, c = c, a, bMost Voted",
+        "is_correct": true
+      },
+      {
+        "letter": "D",
+        "text": "a, b, c = a, b, c",
+        "is_correct": false
+      }
+    ],
+    "correct_answer": "AC",
+    "voting_data": [
+      {
+        "voted_answers": "AC",
+        "vote_count": 1,
+        "is_most_voted": true
+      }
+    ],
+    "scraped_at": "2025-11-29T19:53:30.851306"
+  },
+  {
+    "question_number": 46,
+    "question_id": "806854",
+    "url": "https://www.examtopics.com/discussions/python-institute/view/16750-exam-pcap-topic-1-question-46-discussion/",
+    "question_text": "Assuming that the V variable holds an integer value to 2, which of the following operators should be used instead of OPER to make the expression equal to 1?V OPER 1 -",
+    "has_images": false,
+    "images": [],
+    "choices": [
+      {
+        "letter": "A",
+        "text": "<<<",
+        "is_correct": false
+      },
+      {
+        "letter": "B",
+        "text": ">>>",
+        "is_correct": false
+      },
+      {
+        "letter": "C",
+        "text": ">>Most Voted",
+        "is_correct": true
+      },
+      {
+        "letter": "D",
+        "text": "<<",
+        "is_correct": false
+      }
+    ],
+    "correct_answer": "C",
+    "voting_data": [
+      {
+        "voted_answers": "C",
+        "vote_count": 3,
+        "is_most_voted": true
+      }
+    ],
+    "scraped_at": "2025-11-29T19:53:36.741806"
+  },
+  {
+    "question_number": 47,
+    "question_id": "806855",
+    "url": "https://www.examtopics.com/discussions/python-institute/view/36737-exam-pcap-topic-1-question-47-discussion/",
+    "question_text": "How many stars (*) does the following snippet print?",
+    "has_images": true,
+    "images": [
+      "https://www.examtopics.com/assets/media/exam-media/04235/0003300001.png"
+    ],
+    "choices": [
+      {
+        "letter": "A",
+        "text": "the code is erroneous",
+        "is_correct": false
+      },
+      {
+        "letter": "B",
+        "text": "five",
+        "is_correct": false
+      },
+      {
+        "letter": "C",
+        "text": "three",
+        "is_correct": false
+      },
+      {
+        "letter": "D",
+        "text": "fourMost Voted",
+        "is_correct": true
+      }
+    ],
+    "correct_answer": "D",
+    "voting_data": [
+      {
+        "voted_answers": "D",
+        "vote_count": 4,
+        "is_most_voted": true
+      }
+    ],
+    "scraped_at": "2025-11-29T19:53:42.035777"
+  },
+  {
+    "question_number": 48,
+    "question_id": "806856",
+    "url": "https://www.examtopics.com/discussions/python-institute/view/75110-exam-pcap-topic-1-question-48-discussion/",
+    "question_text": "UNICODE is:",
+    "has_images": false,
+    "images": [],
+    "choices": [
+      {
+        "letter": "A",
+        "text": "the name of an operating system",
+        "is_correct": false
+      },
+      {
+        "letter": "B",
+        "text": "a standard for encoding and handling textsMost Voted",
+        "is_correct": true
+      },
+      {
+        "letter": "C",
+        "text": "the name of a programming language",
+        "is_correct": false
+      },
+      {
+        "letter": "D",
+        "text": "the name of a text processor",
+        "is_correct": false
+      }
+    ],
+    "correct_answer": "B",
+    "voting_data": [
+      {
+        "voted_answers": "B",
+        "vote_count": 1,
+        "is_most_voted": true
+      }
+    ],
+    "scraped_at": "2025-11-29T19:53:47.401566"
+  },
+  {
+    "question_number": 49,
+    "question_id": "806857",
+    "url": "https://www.examtopics.com/discussions/python-institute/view/75111-exam-pcap-topic-1-question-49-discussion/",
+    "question_text": "What is the expected output of the following snippet?",
+    "has_images": true,
+    "images": [
+      "https://www.examtopics.com/assets/media/exam-media/04235/0003500001.png"
+    ],
+    "choices": [
+      {
+        "letter": "A",
+        "text": "*- **-**-**-*Most Voted",
+        "is_correct": true
+      },
+      {
+        "letter": "B",
+        "text": "*-**-**-**-**-**-**-**-*",
+        "is_correct": false
+      },
+      {
+        "letter": "C",
+        "text": "*-*",
+        "is_correct": false
+      },
+      {
+        "letter": "D",
+        "text": "*-**-*",
+        "is_correct": false
+      }
+    ],
+    "correct_answer": "A",
+    "voting_data": [
+      {
+        "voted_answers": "A",
+        "vote_count": 2,
+        "is_most_voted": true
+      }
+    ],
+    "scraped_at": "2025-11-29T19:53:52.570235"
+  },
+  {
+    "question_number": 50,
+    "question_id": "806858",
+    "url": "https://www.examtopics.com/discussions/python-institute/view/63838-exam-pcap-topic-1-question-50-discussion/",
+    "question_text": "Which of the listed actions can be applied to the following tuple? (Choose two.)",
+    "has_images": true,
+    "images": [
+      "https://www.examtopics.com/assets/media/exam-media/04235/0003600001.png"
+    ],
+    "choices": [
+      {
+        "letter": "A",
+        "text": "tup [:]Most Voted",
+        "is_correct": true
+      },
+      {
+        "letter": "B",
+        "text": "tup.append (0)",
+        "is_correct": false
+      },
+      {
+        "letter": "C",
+        "text": "tup [0]",
+        "is_correct": false
+      },
+      {
+        "letter": "D",
+        "text": "del tupMost Voted",
+        "is_correct": true
+      }
+    ],
+    "correct_answer": "AD",
+    "voting_data": [
+      {
+        "voted_answers": "AD",
+        "vote_count": 5,
+        "is_most_voted": true
+      }
+    ],
+    "scraped_at": "2025-11-29T19:53:58.206540"
+  },
+  {
+    "question_number": 51,
+    "question_id": "806859",
+    "url": "https://www.examtopics.com/discussions/python-institute/view/75113-exam-pcap-topic-1-question-51-discussion/",
+    "question_text": "Executing the following snippet -will cause the dct:",
+    "has_images": true,
+    "images": [
+      "https://www.examtopics.com/assets/media/exam-media/04235/0003600002.png"
+    ],
+    "choices": [
+      {
+        "letter": "A",
+        "text": "to hold two keys named 'pi' linked to 3.14 and 3.1415 respectively",
+        "is_correct": false
+      },
+      {
+        "letter": "B",
+        "text": "to hold two key named 'pi' linked to 3.14 and 3.1415",
+        "is_correct": false
+      },
+      {
+        "letter": "C",
+        "text": "to hold one key named 'pi' linked to 3.1415Most Voted",
+        "is_correct": true
+      },
+      {
+        "letter": "D",
+        "text": "to hold two keys named 'pi' linked to 3.1415",
+        "is_correct": false
+      }
+    ],
+    "correct_answer": "C",
+    "voting_data": [
+      {
+        "voted_answers": "C",
+        "vote_count": 1,
+        "is_most_voted": true
+      }
+    ],
+    "scraped_at": "2025-11-29T19:54:03.584185"
+  },
+  {
+    "question_number": 52,
+    "question_id": "806860",
+    "url": "https://www.examtopics.com/discussions/python-institute/view/16003-exam-pcap-topic-1-question-52-discussion/",
+    "question_text": "How many elements will the list1 list contain after execution of the following snippet?",
+    "has_images": true,
+    "images": [
+      "https://www.examtopics.com/assets/media/exam-media/04235/0003700001.png"
+    ],
+    "choices": [
+      {
+        "letter": "A",
+        "text": "twoMost Voted",
+        "is_correct": true
+      },
+      {
+        "letter": "B",
+        "text": "zero",
+        "is_correct": false
+      },
+      {
+        "letter": "C",
+        "text": "one",
+        "is_correct": false
+      },
+      {
+        "letter": "D",
+        "text": "three",
+        "is_correct": false
+      }
+    ],
+    "correct_answer": "A",
+    "voting_data": [
+      {
+        "voted_answers": "A",
+        "vote_count": 1,
+        "is_most_voted": true
+      }
+    ],
+    "scraped_at": "2025-11-29T19:54:08.988274"
+  },
+  {
+    "question_number": 53,
+    "question_id": "806861",
+    "url": "https://www.examtopics.com/discussions/python-institute/view/65147-exam-pcap-topic-1-question-53-discussion/",
+    "question_text": "Which of the equations are True? (Choose two.)",
+    "has_images": false,
+    "images": [],
+    "choices": [
+      {
+        "letter": "A",
+        "text": "chr (ord (x)) = = xMost Voted",
+        "is_correct": true
+      },
+      {
+        "letter": "B",
+        "text": "ord (ord (x)) = = x",
+        "is_correct": false
+      },
+      {
+        "letter": "C",
+        "text": "chr (chr (x)) = = x",
+        "is_correct": false
+      },
+      {
+        "letter": "D",
+        "text": "ord (chr (x)) = = x",
+        "is_correct": false
+      }
+    ],
+    "correct_answer": "A",
+    "voting_data": [
+      {
+        "voted_answers": "A",
+        "vote_count": 5,
+        "is_most_voted": true
+      }
+    ],
+    "scraped_at": "2025-11-29T19:54:14.457343"
+  },
+  {
+    "question_number": 54,
+    "question_id": "806862",
+    "url": "https://www.examtopics.com/discussions/python-institute/view/73131-exam-pcap-topic-1-question-54-discussion/",
+    "question_text": "If you want to transform a string into a list of words, what invocation would you use? (Choose two.)Expected output:Code:",
+    "has_images": true,
+    "images": [
+      "https://www.examtopics.com/assets/media/exam-media/04235/0003700002.png",
+      "https://www.examtopics.com/assets/media/exam-media/04235/0003800001.png"
+    ],
+    "choices": [
+      {
+        "letter": "A",
+        "text": "s.split ()Most Voted",
+        "is_correct": true
+      },
+      {
+        "letter": "B",
+        "text": "split (s, ' ')",
+        "is_correct": false
+      },
+      {
+        "letter": "C",
+        "text": "s.split (' ')Most Voted",
+        "is_correct": true
+      },
+      {
+        "letter": "D",
+        "text": "split (s)",
+        "is_correct": false
+      }
+    ],
+    "correct_answer": "stAC",
+    "voting_data": [
+      {
+        "voted_answers": "AC",
+        "vote_count": 2,
+        "is_most_voted": true
+      }
+    ],
+    "scraped_at": "2025-11-29T19:54:19.950989"
+  },
+  {
+    "question_number": 55,
+    "question_id": "806863",
+    "url": "https://www.examtopics.com/discussions/python-institute/view/75114-exam-pcap-topic-1-question-55-discussion/",
+    "question_text": "Assuming that 1 -is a four-element list is there any difference between these two statements?",
+    "has_images": true,
+    "images": [
+      "https://www.examtopics.com/assets/media/exam-media/04235/0003800002.png"
+    ],
+    "choices": [
+      {
+        "letter": "A",
+        "text": "yes, there is, the first line empties the list, the second line deletes the list as a whole",
+        "is_correct": false
+      },
+      {
+        "letter": "B",
+        "text": "yes, there is, the first line deletes the list as a whole, the second line just empties the listMost Voted",
+        "is_correct": true
+      },
+      {
+        "letter": "C",
+        "text": "no, there is no difference",
+        "is_correct": false
+      },
+      {
+        "letter": "D",
+        "text": "yes, there is, the first line deletes the list as a whole, the second line removes all the elements except the first one",
+        "is_correct": false
+      }
+    ],
+    "correct_answer": "B",
+    "voting_data": [
+      {
+        "voted_answers": "B",
+        "vote_count": 6,
+        "is_most_voted": true
+      }
+    ],
+    "scraped_at": "2025-11-29T19:54:25.891152"
+  },
+  {
+    "question_number": 56,
+    "question_id": "806864",
+    "url": "https://www.examtopics.com/discussions/python-institute/view/75115-exam-pcap-topic-1-question-56-discussion/",
+    "question_text": "What should you put instead of XXX to print out the module name?",
+    "has_images": true,
+    "images": [
+      "https://www.examtopics.com/assets/media/exam-media/04235/0003900001.png"
+    ],
+    "choices": [
+      {
+        "letter": "A",
+        "text": "main",
+        "is_correct": false
+      },
+      {
+        "letter": "B",
+        "text": "_main_",
+        "is_correct": false
+      },
+      {
+        "letter": "C",
+        "text": "__main__Most Voted",
+        "is_correct": true
+      },
+      {
+        "letter": "D",
+        "text": "___main___",
+        "is_correct": false
+      }
+    ],
+    "correct_answer": "C",
+    "voting_data": [
+      {
+        "voted_answers": "C",
+        "vote_count": 1,
+        "is_most_voted": true
+      }
+    ],
+    "scraped_at": "2025-11-29T19:54:31.649694"
+  },
+  {
+    "question_number": 57,
+    "question_id": "806865",
+    "url": "https://www.examtopics.com/discussions/python/view/16120-exam-pcap-topic-1-question-57-discussion/",
+    "question_text": "Files with the suffix .pyc contain:",
+    "has_images": false,
+    "images": [],
+    "choices": [
+      {
+        "letter": "A",
+        "text": "Python 4 source code",
+        "is_correct": false
+      },
+      {
+        "letter": "B",
+        "text": "backups",
+        "is_correct": false
+      },
+      {
+        "letter": "C",
+        "text": "temporary data",
+        "is_correct": false
+      },
+      {
+        "letter": "D",
+        "text": "semi-compiled Python codeMost Voted",
+        "is_correct": true
+      }
+    ],
+    "correct_answer": "D",
+    "voting_data": [
+      {
+        "voted_answers": "D",
+        "vote_count": 2,
+        "is_most_voted": true
+      }
+    ],
+    "scraped_at": "2025-11-29T19:54:36.991148"
+  },
+  {
+    "question_number": 58,
+    "question_id": "806866",
+    "url": "https://www.examtopics.com/discussions/python-institute/view/77456-exam-pcap-topic-1-question-58-discussion/",
+    "question_text": "Package source directories/folders can be:",
+    "has_images": false,
+    "images": [],
+    "choices": [
+      {
+        "letter": "A",
+        "text": "converted into the so-called pypck format",
+        "is_correct": false
+      },
+      {
+        "letter": "B",
+        "text": "packed as a ZIP file and distributed as one fileMost Voted",
+        "is_correct": true
+      },
+      {
+        "letter": "C",
+        "text": "rebuilt to a flat form and distributed as one directory/folder",
+        "is_correct": false
+      },
+      {
+        "letter": "D",
+        "text": "removed as Python compiles them into an internal portable format",
+        "is_correct": false
+      }
+    ],
+    "correct_answer": "B",
+    "voting_data": [
+      {
+        "voted_answers": "B",
+        "vote_count": 1,
+        "is_most_voted": true
+      }
+    ],
+    "scraped_at": "2025-11-29T19:54:42.480246"
+  },
+  {
+    "question_number": 59,
+    "question_id": "806867",
+    "url": "https://www.examtopics.com/discussions/python-institute/view/65460-exam-pcap-topic-1-question-59-discussion/",
+    "question_text": "What can you deduce from the line below? (Choose two.)",
+    "has_images": true,
+    "images": [
+      "https://www.examtopics.com/assets/media/exam-media/04235/0004000001.png"
+    ],
+    "choices": [
+      {
+        "letter": "A",
+        "text": "import a.b.c should be placed before that lineMost Voted",
+        "is_correct": true
+      },
+      {
+        "letter": "B",
+        "text": "f () is located in subpackage c of subpackage b of package aMost Voted",
+        "is_correct": true
+      },
+      {
+        "letter": "C",
+        "text": "the line is incorrect",
+        "is_correct": false
+      },
+      {
+        "letter": "D",
+        "text": "the function being invoked is called a.b.c.f ()",
+        "is_correct": false
+      }
+    ],
+    "correct_answer": "AB",
+    "voting_data": [
+      {
+        "voted_answers": "AB",
+        "vote_count": 10,
+        "is_most_voted": true
+      },
+      {
+        "voted_answers": "AC",
+        "vote_count": 2,
+        "is_most_voted": false
+      },
+      {
+        "voted_answers": "AD",
+        "vote_count": 1,
+        "is_most_voted": false
+      }
+    ],
+    "scraped_at": "2025-11-29T19:54:48.443083"
+  },
+  {
+    "question_number": 60,
+    "question_id": "806868",
+    "url": "https://www.examtopics.com/discussions/python/view/24227-exam-pcap-topic-1-question-60-discussion/",
+    "question_text": "A two-parameter lambda function raising its first parameter to the power of the second parameter should be declared as:",
+    "has_images": false,
+    "images": [],
+    "choices": [
+      {
+        "letter": "A",
+        "text": "lambda (x, y) = x ** y",
+        "is_correct": false
+      },
+      {
+        "letter": "B",
+        "text": "lambda (x, y): x ** y",
+        "is_correct": false
+      },
+      {
+        "letter": "C",
+        "text": "def lambda (x, y): return x ** y",
+        "is_correct": false
+      },
+      {
+        "letter": "D",
+        "text": "lambda x, y: x ** yMost Voted",
+        "is_correct": true
+      }
+    ],
+    "correct_answer": "D",
+    "voting_data": [
+      {
+        "voted_answers": "D",
+        "vote_count": 1,
+        "is_most_voted": true
+      }
+    ],
+    "scraped_at": "2025-11-29T19:54:53.771726"
+  },
+  {
+    "question_number": 61,
+    "question_id": "806869",
+    "url": "https://www.examtopics.com/discussions/python-institute/view/65286-exam-pcap-topic-1-question-61-discussion/",
+    "question_text": "What is the expected output of the following code?",
+    "has_images": true,
+    "images": [
+      "https://www.examtopics.com/assets/media/exam-media/04235/0004100001.png"
+    ],
+    "choices": [
+      {
+        "letter": "A",
+        "text": "21",
+        "is_correct": false
+      },
+      {
+        "letter": "B",
+        "text": "12",
+        "is_correct": false
+      },
+      {
+        "letter": "C",
+        "text": "3Most Voted",
+        "is_correct": true
+      },
+      {
+        "letter": "D",
+        "text": "none",
+        "is_correct": false
+      }
+    ],
+    "correct_answer": "C",
+    "voting_data": [
+      {
+        "voted_answers": "C",
+        "vote_count": 9,
+        "is_most_voted": true
+      },
+      {
+        "voted_answers": "D",
+        "vote_count": 8,
+        "is_most_voted": false
+      }
+    ],
+    "scraped_at": "2025-11-29T19:54:59.534134"
+  },
+  {
+    "question_number": 62,
+    "question_id": "806870",
+    "url": "https://www.examtopics.com/discussions/python-institute/view/16436-exam-pcap-topic-1-question-62-discussion/",
+    "question_text": "A method for passing the arguments used by the following snippet is called:",
+    "has_images": true,
+    "images": [
+      "https://www.examtopics.com/assets/media/exam-media/04235/0004100002.png"
+    ],
+    "choices": [
+      {
+        "letter": "A",
+        "text": "sequential",
+        "is_correct": false
+      },
+      {
+        "letter": "B",
+        "text": "named",
+        "is_correct": false
+      },
+      {
+        "letter": "C",
+        "text": "positionalMost Voted",
+        "is_correct": true
+      },
+      {
+        "letter": "D",
+        "text": "keyword",
+        "is_correct": false
+      }
+    ],
+    "correct_answer": "C",
+    "voting_data": [
+      {
+        "voted_answers": "C",
+        "vote_count": 2,
+        "is_most_voted": true
+      }
+    ],
+    "scraped_at": "2025-11-29T19:55:05.092072"
+  },
+  {
+    "question_number": 63,
+    "question_id": "806871",
+    "url": "https://www.examtopics.com/discussions/python-institute/view/67128-exam-pcap-topic-1-question-63-discussion/",
+    "question_text": "What is the expected behavior of the following code?It will -",
+    "has_images": true,
+    "images": [
+      "https://www.examtopics.com/assets/media/exam-media/04235/0004200001.png"
+    ],
+    "choices": [
+      {
+        "letter": "A",
+        "text": "print 2 1",
+        "is_correct": false
+      },
+      {
+        "letter": "B",
+        "text": "print 1 2Most Voted",
+        "is_correct": true
+      },
+      {
+        "letter": "C",
+        "text": "cause a runtime exception",
+        "is_correct": false
+      },
+      {
+        "letter": "D",
+        "text": "print <generator object f at (some hex digits)>",
+        "is_correct": false
+      }
+    ],
+    "correct_answer": "B",
+    "voting_data": [
+      {
+        "voted_answers": "B",
+        "vote_count": 2,
+        "is_most_voted": true
+      }
+    ],
+    "scraped_at": "2025-11-29T19:55:10.584875"
+  },
+  {
+    "question_number": 64,
+    "question_id": "806872",
+    "url": "https://www.examtopics.com/discussions/python/view/16437-exam-pcap-topic-1-question-64-discussion/",
+    "question_text": "What is the expected output of the following code?",
+    "has_images": true,
+    "images": [
+      "https://www.examtopics.com/assets/media/exam-media/04235/0004300002.png"
+    ],
+    "choices": [
+      {
+        "letter": "A",
+        "text": "2",
+        "is_correct": false
+      },
+      {
+        "letter": "B",
+        "text": "The code will cause a runtime exception",
+        "is_correct": false
+      },
+      {
+        "letter": "C",
+        "text": "1",
+        "is_correct": false
+      },
+      {
+        "letter": "D",
+        "text": "3Most Voted",
+        "is_correct": true
+      }
+    ],
+    "correct_answer": "D",
+    "voting_data": [
+      {
+        "voted_answers": "D",
+        "vote_count": 8,
+        "is_most_voted": true
+      },
+      {
+        "voted_answers": "B",
+        "vote_count": 7,
+        "is_most_voted": false
+      }
+    ],
+    "scraped_at": "2025-11-29T19:55:16.171252"
+  },
+  {
+    "question_number": 65,
+    "question_id": "806873",
+    "url": "https://www.examtopics.com/discussions/python/view/16438-exam-pcap-topic-1-question-65-discussion/",
+    "question_text": "What is the expected behavior of the following code?It will:",
+    "has_images": true,
+    "images": [
+      "https://www.examtopics.com/assets/media/exam-media/04235/0004400001.png"
+    ],
+    "choices": [
+      {
+        "letter": "A",
+        "text": "print 0",
+        "is_correct": false
+      },
+      {
+        "letter": "B",
+        "text": "cause a runtime exceptionMost Voted",
+        "is_correct": true
+      },
+      {
+        "letter": "C",
+        "text": "prints 3",
+        "is_correct": false
+      },
+      {
+        "letter": "D",
+        "text": "print an empty line",
+        "is_correct": false
+      }
+    ],
+    "correct_answer": "B",
+    "voting_data": [
+      {
+        "voted_answers": "B",
+        "vote_count": 3,
+        "is_most_voted": true
+      }
+    ],
+    "scraped_at": "2025-11-29T19:55:21.813401"
+  },
+  {
+    "question_number": 66,
+    "question_id": "806874",
+    "url": "https://www.examtopics.com/discussions/python-institute/view/73132-exam-pcap-topic-1-question-66-discussion/",
+    "question_text": "If any of a class's components has a name that starts with two underscores (___), then:",
+    "has_images": false,
+    "images": [],
+    "choices": [
+      {
+        "letter": "A",
+        "text": "the class component's name will be mangledMost Voted",
+        "is_correct": true
+      },
+      {
+        "letter": "B",
+        "text": "the class component has to be an instance variable",
+        "is_correct": false
+      },
+      {
+        "letter": "C",
+        "text": "the class component has to be a class variable",
+        "is_correct": false
+      },
+      {
+        "letter": "D",
+        "text": "the class component has to be a method",
+        "is_correct": false
+      }
+    ],
+    "correct_answer": "A",
+    "voting_data": [
+      {
+        "voted_answers": "A",
+        "vote_count": 2,
+        "is_most_voted": true
+      }
+    ],
+    "scraped_at": "2025-11-29T19:55:27.154723"
+  },
+  {
+    "question_number": 67,
+    "question_id": "806875",
+    "url": "https://www.examtopics.com/discussions/python-institute/view/28038-exam-pcap-topic-1-question-67-discussion/",
+    "question_text": "If you need to serve two different exceptions called Ex1 and Ex2 in one except branch, you can write:",
+    "has_images": false,
+    "images": [],
+    "choices": [
+      {
+        "letter": "A",
+        "text": "except Ex1 Ex2:",
+        "is_correct": false
+      },
+      {
+        "letter": "B",
+        "text": "except (ex1, Ex2):Most Voted",
+        "is_correct": true
+      },
+      {
+        "letter": "C",
+        "text": "except Ex1, Ex2:",
+        "is_correct": false
+      },
+      {
+        "letter": "D",
+        "text": "except Ex1+Ex2:",
+        "is_correct": false
+      }
+    ],
+    "correct_answer": "B",
+    "voting_data": [
+      {
+        "voted_answers": "B",
+        "vote_count": 5,
+        "is_most_voted": true
+      }
+    ],
+    "scraped_at": "2025-11-29T19:55:32.542495"
+  },
+  {
+    "question_number": 68,
+    "question_id": "806876",
+    "url": "https://www.examtopics.com/discussions/python-institute/view/75117-exam-pcap-topic-1-question-68-discussion/",
+    "question_text": "A function called issubclass (c1, c2) is able to check if:",
+    "has_images": false,
+    "images": [],
+    "choices": [
+      {
+        "letter": "A",
+        "text": "c1 and c2 are both subclasses of the same superclass",
+        "is_correct": false
+      },
+      {
+        "letter": "B",
+        "text": "c2 is a subclass of c1",
+        "is_correct": false
+      },
+      {
+        "letter": "C",
+        "text": "c1 is a subclass of c2Most Voted",
+        "is_correct": true
+      },
+      {
+        "letter": "D",
+        "text": "c1 and c2 are not subclasses of the same superclass",
+        "is_correct": false
+      }
+    ],
+    "correct_answer": "C",
+    "voting_data": [
+      {
+        "voted_answers": "C",
+        "vote_count": 2,
+        "is_most_voted": true
+      }
+    ],
+    "scraped_at": "2025-11-29T19:55:38.094988"
+  },
+  {
+    "question_number": 69,
+    "question_id": "806877",
+    "url": "https://www.examtopics.com/discussions/python-institute/view/104004-exam-pcap-topic-1-question-69-discussion/",
+    "question_text": "A class constructor (Choose two.)",
+    "has_images": false,
+    "images": [],
+    "choices": [
+      {
+        "letter": "A",
+        "text": "can return a value",
+        "is_correct": false
+      },
+      {
+        "letter": "B",
+        "text": "cannot be invoked directly from inside the classMost Voted",
+        "is_correct": true
+      },
+      {
+        "letter": "C",
+        "text": "can be invoked directly from any of the subclassesMost Voted",
+        "is_correct": true
+      },
+      {
+        "letter": "D",
+        "text": "can be invoked directly from any of the superclasses",
+        "is_correct": false
+      }
+    ],
+    "correct_answer": "BC",
+    "voting_data": [
+      {
+        "voted_answers": "BC",
+        "vote_count": 3,
+        "is_most_voted": true
+      },
+      {
+        "voted_answers": "CD",
+        "vote_count": 2,
+        "is_most_voted": false
+      }
+    ],
+    "scraped_at": "2025-11-29T19:55:43.570176"
+  },
+  {
+    "question_number": 70,
+    "question_id": "806878",
+    "url": "https://www.examtopics.com/discussions/python-institute/view/16439-exam-pcap-topic-1-question-70-discussion/",
+    "question_text": "The following class definition is given. We want the show () method to invoke the get () method, and then output the value the get () method returns. Which of the invocations should be used instead of XXX?",
+    "has_images": true,
+    "images": [
+      "https://www.examtopics.com/assets/media/exam-media/04235/0004600001.png"
+    ],
+    "choices": [
+      {
+        "letter": "A",
+        "text": "print (get(self))",
+        "is_correct": false
+      },
+      {
+        "letter": "B",
+        "text": "print (self.get())Most Voted",
+        "is_correct": true
+      },
+      {
+        "letter": "C",
+        "text": "print (get())",
+        "is_correct": false
+      },
+      {
+        "letter": "D",
+        "text": "print (self.get (val))",
+        "is_correct": false
+      }
+    ],
+    "correct_answer": "B",
+    "voting_data": [
+      {
+        "voted_answers": "B",
+        "vote_count": 1,
+        "is_most_voted": true
+      }
+    ],
+    "scraped_at": "2025-11-29T19:55:48.884796"
+  },
+  {
+    "question_number": 71,
+    "question_id": "806879",
+    "url": "https://www.examtopics.com/discussions/python-institute/view/52699-exam-pcap-topic-1-question-71-discussion/",
+    "question_text": "If S is a stream open for reading, what do you expect from the following invocation?",
+    "has_images": true,
+    "images": [
+      "https://www.examtopics.com/assets/media/exam-media/04235/0004600002.png"
+    ],
+    "choices": [
+      {
+        "letter": "A",
+        "text": "one line of the file will be read and stored in the string called C",
+        "is_correct": false
+      },
+      {
+        "letter": "B",
+        "text": "the whole file content will be read and stored in the string called CMost Voted",
+        "is_correct": true
+      },
+      {
+        "letter": "C",
+        "text": "one character will be read and stored in the string called C",
+        "is_correct": false
+      },
+      {
+        "letter": "D",
+        "text": "one disk sector (512 bytes) will be read and stored in the string called C",
+        "is_correct": false
+      }
+    ],
+    "correct_answer": "B",
+    "voting_data": [
+      {
+        "voted_answers": "B",
+        "vote_count": 5,
+        "is_most_voted": true
+      }
+    ],
+    "scraped_at": "2025-11-29T19:55:54.574998"
+  },
+  {
+    "question_number": 72,
+    "question_id": "806880",
+    "url": "https://www.examtopics.com/discussions/python-institute/view/64691-exam-pcap-topic-1-question-72-discussion/",
+    "question_text": "You are going to read 16 bytes from a binary file into a bytearray called data. Which lines would you use? (Choose two.)",
+    "has_images": false,
+    "images": [],
+    "choices": [
+      {
+        "letter": "A",
+        "text": "data = bytearray (16) bf.readinto (data)Most Voted",
+        "is_correct": true
+      },
+      {
+        "letter": "B",
+        "text": "data = binfile.read (bytearray (16))",
+        "is_correct": false
+      },
+      {
+        "letter": "C",
+        "text": "bf. readinto (data = bytearray (16))",
+        "is_correct": false
+      },
+      {
+        "letter": "D",
+        "text": "data = bytearray (binfile.read (16))Most Voted",
+        "is_correct": true
+      }
+    ],
+    "correct_answer": "AD",
+    "voting_data": [
+      {
+        "voted_answers": "AD",
+        "vote_count": 11,
+        "is_most_voted": true
+      }
+    ],
+    "scraped_at": "2025-11-29T19:55:59.970369"
+  },
+  {
+    "question_number": 73,
+    "question_id": "806881",
+    "url": "https://www.examtopics.com/discussions/python-institute/view/16752-exam-pcap-topic-1-question-73-discussion/",
+    "question_text": "What is the expected output of the following snippet?",
+    "has_images": true,
+    "images": [
+      "https://www.examtopics.com/assets/media/exam-media/04235/0004800001.png"
+    ],
+    "choices": [
+      {
+        "letter": "A",
+        "text": "True False",
+        "is_correct": false
+      },
+      {
+        "letter": "B",
+        "text": "True TrueMost Voted",
+        "is_correct": true
+      },
+      {
+        "letter": "C",
+        "text": "False False",
+        "is_correct": false
+      },
+      {
+        "letter": "D",
+        "text": "False True",
+        "is_correct": false
+      }
+    ],
+    "correct_answer": "B",
+    "voting_data": [
+      {
+        "voted_answers": "B",
+        "vote_count": 6,
+        "is_most_voted": true
+      }
+    ],
+    "scraped_at": "2025-11-29T19:56:05.510679"
+  },
+  {
+    "question_number": 74,
+    "question_id": "806882",
+    "url": "https://www.examtopics.com/discussions/python-institute/view/63849-exam-pcap-topic-1-question-74-discussion/",
+    "question_text": "Assuming that the code below has been executed successfully, which of the following expressions will always evaluate to True? (Choose two.)",
+    "has_images": true,
+    "images": [
+      "https://www.examtopics.com/assets/media/exam-media/04235/0004900001.png"
+    ],
+    "choices": [
+      {
+        "letter": "A",
+        "text": "v1 >= 1",
+        "is_correct": false
+      },
+      {
+        "letter": "B",
+        "text": "v1 == v2Most Voted",
+        "is_correct": true
+      },
+      {
+        "letter": "C",
+        "text": "len(random.sample([1,2,3],2)) > 2",
+        "is_correct": false
+      },
+      {
+        "letter": "D",
+        "text": "random.choice([1,2,3]) >=1Most Voted",
+        "is_correct": true
+      }
+    ],
+    "correct_answer": "BD",
+    "voting_data": [
+      {
+        "voted_answers": "BD",
+        "vote_count": 9,
+        "is_most_voted": true
+      },
+      {
+        "voted_answers": "AD",
+        "vote_count": 2,
+        "is_most_voted": false
+      }
+    ],
+    "scraped_at": "2025-11-29T19:56:15.881052"
+  },
+  {
+    "question_number": 75,
+    "question_id": "806883",
+    "url": "https://www.examtopics.com/discussions/python-institute/view/75118-exam-pcap-topic-1-question-75-discussion/",
+    "question_text": "Which one of the platform module functions should be used to determine the underlying platform name?",
+    "has_images": false,
+    "images": [],
+    "choices": [
+      {
+        "letter": "A",
+        "text": "platform.python_version()",
+        "is_correct": false
+      },
+      {
+        "letter": "B",
+        "text": "platform.processor()",
+        "is_correct": false
+      },
+      {
+        "letter": "C",
+        "text": "platform.platform()Most Voted",
+        "is_correct": true
+      },
+      {
+        "letter": "D",
+        "text": "platform.uname()",
+        "is_correct": false
+      }
+    ],
+    "correct_answer": "C",
+    "voting_data": [
+      {
+        "voted_answers": "C",
+        "vote_count": 2,
+        "is_most_voted": true
+      }
+    ],
+    "scraped_at": "2025-11-29T19:56:21.274106"
+  },
+  {
+    "question_number": 76,
+    "question_id": "806884",
+    "url": "https://www.examtopics.com/discussions/python-institute/view/64247-exam-pcap-topic-1-question-76-discussion/",
+    "question_text": "What is the expected output of the following code?",
+    "has_images": true,
+    "images": [
+      "https://www.examtopics.com/assets/media/exam-media/04235/0005000001.png"
+    ],
+    "choices": [
+      {
+        "letter": "A",
+        "text": "False",
+        "is_correct": false
+      },
+      {
+        "letter": "B",
+        "text": "None",
+        "is_correct": false
+      },
+      {
+        "letter": "C",
+        "text": "TrueMost Voted",
+        "is_correct": true
+      },
+      {
+        "letter": "D",
+        "text": "0",
+        "is_correct": false
+      }
+    ],
+    "correct_answer": "C",
+    "voting_data": [
+      {
+        "voted_answers": "C",
+        "vote_count": 6,
+        "is_most_voted": true
+      }
+    ],
+    "scraped_at": "2025-11-29T19:56:27.156627"
+  },
+  {
+    "question_number": 77,
+    "question_id": "806885",
+    "url": "https://www.examtopics.com/discussions/python-institute/view/75119-exam-pcap-topic-1-question-77-discussion/",
+    "question_text": "With regards to the directory structure below, select the proper forms of the directives in order to import module_a. (Choose two.)",
+    "has_images": true,
+    "images": [
+      "https://www.examtopics.com/assets/media/exam-media/04235/0005100001.png"
+    ],
+    "choices": [
+      {
+        "letter": "A",
+        "text": "from pypack import module_aMost Voted",
+        "is_correct": true
+      },
+      {
+        "letter": "B",
+        "text": "import module_a from pypack",
+        "is_correct": false
+      },
+      {
+        "letter": "C",
+        "text": "import module_a",
+        "is_correct": false
+      },
+      {
+        "letter": "D",
+        "text": "import pypack.module_aMost Voted",
+        "is_correct": true
+      }
+    ],
+    "correct_answer": "AD",
+    "voting_data": [
+      {
+        "voted_answers": "AD",
+        "vote_count": 1,
+        "is_most_voted": true
+      }
+    ],
+    "scraped_at": "2025-11-29T19:56:34.743152"
+  },
+  {
+    "question_number": 78,
+    "question_id": "806886",
+    "url": "https://www.examtopics.com/discussions/python-institute/view/68258-exam-pcap-topic-1-question-78-discussion/",
+    "question_text": "A Python module named pymod.py contains a function named pyfun().Which of the following snippets will let you invoke the function? (Choose two.)",
+    "has_images": false,
+    "images": [],
+    "choices": [
+      {
+        "letter": "A",
+        "text": "import pymod pymod.pyfun()Most Voted",
+        "is_correct": true
+      },
+      {
+        "letter": "B",
+        "text": "from pymod import pyfun pyfun()Most Voted",
+        "is_correct": true
+      },
+      {
+        "letter": "C",
+        "text": "from pymod import * pymod.pyfun()",
+        "is_correct": false
+      },
+      {
+        "letter": "D",
+        "text": "import pyfun from pymod pyfun()",
+        "is_correct": false
+      }
+    ],
+    "correct_answer": "AB",
+    "voting_data": [
+      {
+        "voted_answers": "AB",
+        "vote_count": 1,
+        "is_most_voted": true
+      }
+    ],
+    "scraped_at": "2025-11-29T19:56:39.914085"
+  },
+  {
+    "question_number": 79,
+    "question_id": "806887",
+    "url": "https://www.examtopics.com/discussions/python-institute/view/87423-exam-pcap-topic-1-question-79-discussion/",
+    "question_text": "What is true about Python packages? (Choose two.)",
+    "has_images": false,
+    "images": [],
+    "choices": [
+      {
+        "letter": "A",
+        "text": "a package is a single file whose name ends with the pa extension",
+        "is_correct": false
+      },
+      {
+        "letter": "B",
+        "text": "a package is a group of related modulesMost Voted",
+        "is_correct": true
+      },
+      {
+        "letter": "C",
+        "text": "the __name__ variable always contains the name of a package",
+        "is_correct": false
+      },
+      {
+        "letter": "D",
+        "text": "the pyc extension is used to mark semi-compiled Python packagesMost Voted",
+        "is_correct": true
+      }
+    ],
+    "correct_answer": "BD",
+    "voting_data": [
+      {
+        "voted_answers": "BD",
+        "vote_count": 7,
+        "is_most_voted": true
+      },
+      {
+        "voted_answers": "BC",
+        "vote_count": 3,
+        "is_most_voted": false
+      }
+    ],
+    "scraped_at": "2025-11-29T19:56:45.240038"
+  },
+  {
+    "question_number": 80,
+    "question_id": "806888",
+    "url": "https://www.examtopics.com/discussions/python-institute/view/63851-exam-pcap-topic-1-question-80-discussion/",
+    "question_text": "What is the expected behavior of the following code?",
+    "has_images": true,
+    "images": [
+      "https://www.examtopics.com/assets/media/exam-media/04235/0005300001.png"
+    ],
+    "choices": [
+      {
+        "letter": "A",
+        "text": "it outputs 3",
+        "is_correct": false
+      },
+      {
+        "letter": "B",
+        "text": "it outputs 1",
+        "is_correct": false
+      },
+      {
+        "letter": "C",
+        "text": "the code is erroneous and it will not executeMost Voted",
+        "is_correct": true
+      },
+      {
+        "letter": "D",
+        "text": "it outputs 2",
+        "is_correct": false
+      }
+    ],
+    "correct_answer": "C",
+    "voting_data": [
+      {
+        "voted_answers": "C",
+        "vote_count": 6,
+        "is_most_voted": true
+      },
+      {
+        "voted_answers": "A",
+        "vote_count": 6,
+        "is_most_voted": false
+      },
+      {
+        "voted_answers": "B",
+        "vote_count": 5,
+        "is_most_voted": false
+      }
+    ],
+    "scraped_at": "2025-11-29T19:56:51.533625"
+  },
+  {
+    "question_number": 81,
+    "question_id": "806889",
+    "url": "https://www.examtopics.com/discussions/python-institute/view/66730-exam-pcap-topic-1-question-81-discussion/",
+    "question_text": "What is the expected behavior of the following code?",
+    "has_images": true,
+    "images": [
+      "https://www.examtopics.com/assets/media/exam-media/04235/0005500001.png"
+    ],
+    "choices": [
+      {
+        "letter": "A",
+        "text": "it outputs 3",
+        "is_correct": false
+      },
+      {
+        "letter": "B",
+        "text": "the code is erroneous and it will not execute",
+        "is_correct": false
+      },
+      {
+        "letter": "C",
+        "text": "it outputs 1Most Voted",
+        "is_correct": true
+      },
+      {
+        "letter": "D",
+        "text": "it outputs 2",
+        "is_correct": false
+      }
+    ],
+    "correct_answer": "C",
+    "voting_data": [
+      {
+        "voted_answers": "C",
+        "vote_count": 2,
+        "is_most_voted": true
+      }
+    ],
+    "scraped_at": "2025-11-29T19:56:57.251822"
+  },
+  {
+    "question_number": 82,
+    "question_id": "806890",
+    "url": "https://www.examtopics.com/discussions/python-institute/view/64565-exam-pcap-topic-1-question-82-discussion/",
+    "question_text": "Which of the following snippets will execute without raising any unhandled exceptions? (Choose two.)A.B.C.D.",
+    "has_images": true,
+    "images": [
+      "https://www.examtopics.com/assets/media/exam-media/04235/0005600002.png",
+      "https://www.examtopics.com/assets/media/exam-media/04235/0005700001.png",
+      "https://www.examtopics.com/assets/media/exam-media/04235/0005700002.png",
+      "https://www.examtopics.com/assets/media/exam-media/04235/0005700003.png"
+    ],
+    "choices": [],
+    "correct_answer": "AC",
+    "voting_data": [],
+    "scraped_at": "2025-11-29T19:57:03.403852"
+  },
+  {
+    "question_number": 83,
+    "question_id": "806891",
+    "url": "https://www.examtopics.com/discussions/python-institute/view/75121-exam-pcap-topic-1-question-83-discussion/",
+    "question_text": "What is the expected behavior of the following code?",
+    "has_images": true,
+    "images": [
+      "https://www.examtopics.com/assets/media/exam-media/04235/0005800002.png"
+    ],
+    "choices": [
+      {
+        "letter": "A",
+        "text": "it outputs error",
+        "is_correct": false
+      },
+      {
+        "letter": "B",
+        "text": "it outputs <class 'IndexError'>",
+        "is_correct": false
+      },
+      {
+        "letter": "C",
+        "text": "it outputs list assignment index out of rangeMost Voted",
+        "is_correct": true
+      },
+      {
+        "letter": "D",
+        "text": "the code is erroneous and it will not execute",
+        "is_correct": false
+      }
+    ],
+    "correct_answer": "C",
+    "voting_data": [
+      {
+        "voted_answers": "C",
+        "vote_count": 2,
+        "is_most_voted": true
+      }
+    ],
+    "scraped_at": "2025-11-29T19:57:08.927359"
+  },
+  {
+    "question_number": 84,
+    "question_id": "806892",
+    "url": "https://www.examtopics.com/discussions/python-institute/view/64697-exam-pcap-topic-1-question-84-discussion/",
+    "question_text": "What is true about the following snippet? (Choose two.)",
+    "has_images": true,
+    "images": [
+      "https://www.examtopics.com/assets/media/exam-media/04235/0006000001.png"
+    ],
+    "choices": [
+      {
+        "letter": "A",
+        "text": "the string it's nice to see you will be seen",
+        "is_correct": false
+      },
+      {
+        "letter": "B",
+        "text": "the string I feel fine will be seenMost Voted",
+        "is_correct": true
+      },
+      {
+        "letter": "C",
+        "text": "the code will raise an unhandled exception",
+        "is_correct": false
+      },
+      {
+        "letter": "D",
+        "text": "the string what a pity will be seenMost Voted",
+        "is_correct": true
+      }
+    ],
+    "correct_answer": "BD",
+    "voting_data": [
+      {
+        "voted_answers": "BD",
+        "vote_count": 8,
+        "is_most_voted": true
+      },
+      {
+        "voted_answers": "BC",
+        "vote_count": 8,
+        "is_most_voted": false
+      }
+    ],
+    "scraped_at": "2025-11-29T19:57:14.303055"
+  },
+  {
+    "question_number": 85,
+    "question_id": "806893",
+    "url": "https://www.examtopics.com/discussions/python-institute/view/64248-exam-pcap-topic-1-question-85-discussion/",
+    "question_text": "Which of the following expressions evaluate to True? (Choose two.)",
+    "has_images": false,
+    "images": [],
+    "choices": [
+      {
+        "letter": "A",
+        "text": "ord(ג€Zג€) - ord(ג€zג€)  == ord(ג€0ג€)",
+        "is_correct": false
+      },
+      {
+        "letter": "B",
+        "text": "chr(ord('A') +1) == 'B'Most Voted",
+        "is_correct": true
+      },
+      {
+        "letter": "C",
+        "text": "len('\\'') == 1Most Voted",
+        "is_correct": true
+      },
+      {
+        "letter": "D",
+        "text": "len(ג€ג€ג€ ג€ג€ג€) == 0",
+        "is_correct": false
+      }
+    ],
+    "correct_answer": "BC",
+    "voting_data": [
+      {
+        "voted_answers": "BC",
+        "vote_count": 7,
+        "is_most_voted": true
+      },
+      {
+        "voted_answers": "BD",
+        "vote_count": 6,
+        "is_most_voted": false
+      },
+      {
+        "voted_answers": "B",
+        "vote_count": 1,
+        "is_most_voted": false
+      }
+    ],
+    "scraped_at": "2025-11-29T19:57:21.434485"
+  },
+  {
+    "question_number": 86,
+    "question_id": "806894",
+    "url": "https://www.examtopics.com/discussions/python-institute/view/63945-exam-pcap-topic-1-question-86-discussion/",
+    "question_text": "Which of the following invocations are valid? (Choose two.)",
+    "has_images": false,
+    "images": [],
+    "choices": [
+      {
+        "letter": "A",
+        "text": "ג€pythonג€.sort()",
+        "is_correct": false
+      },
+      {
+        "letter": "B",
+        "text": "sorted(ג€pythonג€)Most Voted",
+        "is_correct": true
+      },
+      {
+        "letter": "C",
+        "text": "rfind(ג€pythonג€,ג€rג€)",
+        "is_correct": false
+      },
+      {
+        "letter": "D",
+        "text": "ג€pythonג€.index(ג€thג€)Most Voted",
+        "is_correct": true
+      }
+    ],
+    "correct_answer": "BD",
+    "voting_data": [
+      {
+        "voted_answers": "BD",
+        "vote_count": 12,
+        "is_most_voted": true
+      },
+      {
+        "voted_answers": "AD",
+        "vote_count": 1,
+        "is_most_voted": false
+      }
+    ],
+    "scraped_at": "2025-11-29T19:57:26.818560"
+  },
+  {
+    "question_number": 87,
+    "question_id": "806895",
+    "url": "https://www.examtopics.com/discussions/python-institute/view/65915-exam-pcap-topic-1-question-87-discussion/",
+    "question_text": "What is the expected behavior of the following code?",
+    "has_images": true,
+    "images": [
+      "https://www.examtopics.com/assets/media/exam-media/04235/0006200001.png"
+    ],
+    "choices": [
+      {
+        "letter": "A",
+        "text": "it raises an exceptionMost Voted",
+        "is_correct": true
+      },
+      {
+        "letter": "B",
+        "text": "it outputs 0",
+        "is_correct": false
+      },
+      {
+        "letter": "C",
+        "text": "it outputs 3",
+        "is_correct": false
+      },
+      {
+        "letter": "D",
+        "text": "it outputs 'None'",
+        "is_correct": false
+      }
+    ],
+    "correct_answer": "A",
+    "voting_data": [
+      {
+        "voted_answers": "A",
+        "vote_count": 5,
+        "is_most_voted": true
+      },
+      {
+        "voted_answers": "B",
+        "vote_count": 3,
+        "is_most_voted": false
+      }
+    ],
+    "scraped_at": "2025-11-29T19:57:32.316105"
+  },
+  {
+    "question_number": 88,
+    "question_id": "806896",
+    "url": "https://www.examtopics.com/discussions/python-institute/view/66050-exam-pcap-topic-1-question-88-discussion/",
+    "question_text": "Which of the following statements are true? (Choose two.)",
+    "has_images": false,
+    "images": [],
+    "choices": [
+      {
+        "letter": "A",
+        "text": "II in ACII stands for Information InterchangeMost Voted",
+        "is_correct": true
+      },
+      {
+        "letter": "B",
+        "text": "a code point is a number assigned to a given characterMost Voted",
+        "is_correct": true
+      },
+      {
+        "letter": "C",
+        "text": "ACII is synonymous with UTF-8",
+        "is_correct": false
+      },
+      {
+        "letter": "D",
+        "text": "\\e is an escape sequence used to mark the end of lines",
+        "is_correct": false
+      }
+    ],
+    "correct_answer": "AB",
+    "voting_data": [
+      {
+        "voted_answers": "AB",
+        "vote_count": 3,
+        "is_most_voted": true
+      }
+    ],
+    "scraped_at": "2025-11-29T19:57:37.998660"
+  },
+  {
+    "question_number": 89,
+    "question_id": "806897",
+    "url": "https://www.examtopics.com/discussions/python-institute/view/64398-exam-pcap-topic-1-question-89-discussion/",
+    "question_text": "Which of the following expressions evaluate to True? (Choose two.)",
+    "has_images": false,
+    "images": [],
+    "choices": [
+      {
+        "letter": "A",
+        "text": "str(1-1) in '123456789'[:2]Most Voted",
+        "is_correct": true
+      },
+      {
+        "letter": "B",
+        "text": "'dcb' not in 'abcde'[::-1]",
+        "is_correct": false
+      },
+      {
+        "letter": "C",
+        "text": "'phd' in 'aplpha'",
+        "is_correct": false
+      },
+      {
+        "letter": "D",
+        "text": "'True' not in 'False'Most Voted",
+        "is_correct": true
+      }
+    ],
+    "correct_answer": "AD",
+    "voting_data": [
+      {
+        "voted_answers": "AD",
+        "vote_count": 9,
+        "is_most_voted": true
+      },
+      {
+        "voted_answers": "BD",
+        "vote_count": 4,
+        "is_most_voted": false
+      },
+      {
+        "voted_answers": "D",
+        "vote_count": 2,
+        "is_most_voted": false
+      }
+    ],
+    "scraped_at": "2025-11-29T19:57:43.796421"
+  },
+  {
+    "question_number": 90,
+    "question_id": "806898",
+    "url": "https://www.examtopics.com/discussions/python-institute/view/64142-exam-pcap-topic-1-question-90-discussion/",
+    "question_text": "What is the expected behavior of the following code?",
+    "has_images": true,
+    "images": [
+      "https://www.examtopics.com/assets/media/exam-media/04235/0006400001.png"
+    ],
+    "choices": [
+      {
+        "letter": "A",
+        "text": "it raises an exception",
+        "is_correct": false
+      },
+      {
+        "letter": "B",
+        "text": "it outputs True",
+        "is_correct": false
+      },
+      {
+        "letter": "C",
+        "text": "it outputs FalseMost Voted",
+        "is_correct": true
+      },
+      {
+        "letter": "D",
+        "text": "it outputs nothing",
+        "is_correct": false
+      }
+    ],
+    "correct_answer": "C",
+    "voting_data": [
+      {
+        "voted_answers": "C",
+        "vote_count": 9,
+        "is_most_voted": true
+      },
+      {
+        "voted_answers": "A",
+        "vote_count": 1,
+        "is_most_voted": false
+      },
+      {
+        "voted_answers": "B",
+        "vote_count": 1,
+        "is_most_voted": false
+      }
+    ],
+    "scraped_at": "2025-11-29T19:57:49.367385"
+  },
+  {
+    "question_number": 91,
+    "question_id": "806899",
+    "url": "https://www.examtopics.com/discussions/python-institute/view/68301-exam-pcap-topic-1-question-91-discussion/",
+    "question_text": "Which of the following expressions evaluate to True? (Choose two.)",
+    "has_images": false,
+    "images": [],
+    "choices": [
+      {
+        "letter": "A",
+        "text": "121 + 1 != '1' + 2 * '2'Most Voted",
+        "is_correct": true
+      },
+      {
+        "letter": "B",
+        "text": "'1' + '1' + '1' < '1' *3'",
+        "is_correct": false
+      },
+      {
+        "letter": "C",
+        "text": "'AbC'.lower() < 'AB'",
+        "is_correct": false
+      },
+      {
+        "letter": "D",
+        "text": "'3.14' != str(3.1415)Most Voted",
+        "is_correct": true
+      }
+    ],
+    "correct_answer": "AD",
+    "voting_data": [
+      {
+        "voted_answers": "AD",
+        "vote_count": 7,
+        "is_most_voted": true
+      }
+    ],
+    "scraped_at": "2025-11-29T19:57:54.664239"
+  },
+  {
+    "question_number": 92,
+    "question_id": "806900",
+    "url": "https://www.examtopics.com/discussions/python-institute/view/74807-exam-pcap-topic-1-question-92-discussion/",
+    "question_text": "Assuming that the snippet below has been executed successfully, which of the following expressions evaluate to True? (Choose two.) string = 'python'[::2] string = string[-1] + string[-2]",
+    "has_images": false,
+    "images": [],
+    "choices": [
+      {
+        "letter": "A",
+        "text": "string[0] == 'o'Most Voted",
+        "is_correct": true
+      },
+      {
+        "letter": "B",
+        "text": "string is None",
+        "is_correct": false
+      },
+      {
+        "letter": "C",
+        "text": "len(string) == 3",
+        "is_correct": false
+      },
+      {
+        "letter": "D",
+        "text": "string[0] == string [-1]",
+        "is_correct": false
+      }
+    ],
+    "correct_answer": "A",
+    "voting_data": [
+      {
+        "voted_answers": "A",
+        "vote_count": 3,
+        "is_most_voted": true
+      }
+    ],
+    "scraped_at": "2025-11-29T19:58:00.258422"
+  },
+  {
+    "question_number": 93,
+    "question_id": "806901",
+    "url": "https://www.examtopics.com/discussions/python-institute/view/65917-exam-pcap-topic-1-question-93-discussion/",
+    "question_text": "What is the expected behavior of the following code?",
+    "has_images": true,
+    "images": [
+      "https://www.examtopics.com/assets/media/exam-media/04235/0006600001.png"
+    ],
+    "choices": [
+      {
+        "letter": "A",
+        "text": "it outputs 0",
+        "is_correct": false
+      },
+      {
+        "letter": "B",
+        "text": "it outputs 1Most Voted",
+        "is_correct": true
+      },
+      {
+        "letter": "C",
+        "text": "it raises an exception",
+        "is_correct": false
+      },
+      {
+        "letter": "D",
+        "text": "it outputs 2",
+        "is_correct": false
+      }
+    ],
+    "correct_answer": "B",
+    "voting_data": [
+      {
+        "voted_answers": "B",
+        "vote_count": 12,
+        "is_most_voted": true
+      },
+      {
+        "voted_answers": "C",
+        "vote_count": 2,
+        "is_most_voted": false
+      }
+    ],
+    "scraped_at": "2025-11-29T19:58:05.913203"
+  },
+  {
+    "question_number": 94,
+    "question_id": "806902",
+    "url": "https://www.examtopics.com/discussions/python-institute/view/64762-exam-pcap-topic-1-question-94-discussion/",
+    "question_text": "Assuming that the following inheritance set is in force, which of the following classes are declared properly? (Choose two.)",
+    "has_images": true,
+    "images": [
+      "https://www.examtopics.com/assets/media/exam-media/04235/0006800001.png"
+    ],
+    "choices": [
+      {
+        "letter": "A",
+        "text": "class Class_4(D,A): passMost Voted",
+        "is_correct": true
+      },
+      {
+        "letter": "B",
+        "text": "class Class_3(A,C): pass",
+        "is_correct": false
+      },
+      {
+        "letter": "C",
+        "text": "class Class_2(B,D): pass",
+        "is_correct": false
+      },
+      {
+        "letter": "D",
+        "text": "class Class_1(C,D): passMost Voted",
+        "is_correct": true
+      }
+    ],
+    "correct_answer": "AD",
+    "voting_data": [
+      {
+        "voted_answers": "AD",
+        "vote_count": 3,
+        "is_most_voted": true
+      }
+    ],
+    "scraped_at": "2025-11-29T19:58:11.275337"
+  },
+  {
+    "question_number": 95,
+    "question_id": "806903",
+    "url": "https://www.examtopics.com/discussions/python-institute/view/75143-exam-pcap-topic-1-question-95-discussion/",
+    "question_text": "What is the expected output of the following snippet?",
+    "has_images": true,
+    "images": [
+      "https://www.examtopics.com/assets/media/exam-media/04235/0006900001.png"
+    ],
+    "choices": [
+      {
+        "letter": "A",
+        "text": "True upper",
+        "is_correct": false
+      },
+      {
+        "letter": "B",
+        "text": "True lower",
+        "is_correct": false
+      },
+      {
+        "letter": "C",
+        "text": "False upperMost Voted",
+        "is_correct": true
+      },
+      {
+        "letter": "D",
+        "text": "False lower",
+        "is_correct": false
+      }
+    ],
+    "correct_answer": "C",
+    "voting_data": [
+      {
+        "voted_answers": "C",
+        "vote_count": 3,
+        "is_most_voted": true
+      }
+    ],
+    "scraped_at": "2025-11-29T19:58:16.929045"
+  },
+  {
+    "question_number": 96,
+    "question_id": "806904",
+    "url": "https://www.examtopics.com/discussions/python-institute/view/64699-exam-pcap-topic-1-question-96-discussion/",
+    "question_text": "Assuming that the code below has been placed inside a file named code.py and executed successfully, which of the following expressions evaluate to True?(Choose two.)",
+    "has_images": true,
+    "images": [
+      "https://www.examtopics.com/assets/media/exam-media/04235/0007100001.png"
+    ],
+    "choices": [
+      {
+        "letter": "A",
+        "text": "len(ClassB.__bases__) ==2",
+        "is_correct": false
+      },
+      {
+        "letter": "B",
+        "text": "ClassA.__module__ == '__main__'Most Voted",
+        "is_correct": true
+      },
+      {
+        "letter": "C",
+        "text": "__name__ == 'code.py'",
+        "is_correct": false
+      },
+      {
+        "letter": "D",
+        "text": "str(Object) == 'Object'",
+        "is_correct": false
+      }
+    ],
+    "correct_answer": "B",
+    "voting_data": [
+      {
+        "voted_answers": "B",
+        "vote_count": 3,
+        "is_most_voted": true
+      }
+    ],
+    "scraped_at": "2025-11-29T19:58:22.222408"
+  },
+  {
+    "question_number": 97,
+    "question_id": "806905",
+    "url": "https://www.examtopics.com/discussions/python-institute/view/63946-exam-pcap-topic-1-question-97-discussion/",
+    "question_text": "What is the expected behavior of the following code?",
+    "has_images": true,
+    "images": [
+      "https://www.examtopics.com/assets/media/exam-media/04235/0007200001.png"
+    ],
+    "choices": [
+      {
+        "letter": "A",
+        "text": "it outputs 1",
+        "is_correct": false
+      },
+      {
+        "letter": "B",
+        "text": "it outputs 3Most Voted",
+        "is_correct": true
+      },
+      {
+        "letter": "C",
+        "text": "it outputs 6",
+        "is_correct": false
+      },
+      {
+        "letter": "D",
+        "text": "it raises an exception",
+        "is_correct": false
+      }
+    ],
+    "correct_answer": "B",
+    "voting_data": [
+      {
+        "voted_answers": "B",
+        "vote_count": 3,
+        "is_most_voted": true
+      },
+      {
+        "voted_answers": "D",
+        "vote_count": 2,
+        "is_most_voted": false
+      }
+    ],
+    "scraped_at": "2025-11-29T19:58:27.639856"
+  },
+  {
+    "question_number": 98,
+    "question_id": "806906",
+    "url": "https://www.examtopics.com/discussions/python-institute/view/69201-exam-pcap-topic-1-question-98-discussion/",
+    "question_text": "What is the expected behavior of the following code?",
+    "has_images": true,
+    "images": [
+      "https://www.examtopics.com/assets/media/exam-media/04235/0007300002.png"
+    ],
+    "choices": [
+      {
+        "letter": "A",
+        "text": "it outputs 0Most Voted",
+        "is_correct": true
+      },
+      {
+        "letter": "B",
+        "text": "it raises an exception",
+        "is_correct": false
+      },
+      {
+        "letter": "C",
+        "text": "it outputs 1",
+        "is_correct": false
+      },
+      {
+        "letter": "D",
+        "text": "it outputs 2",
+        "is_correct": false
+      }
+    ],
+    "correct_answer": "A",
+    "voting_data": [
+      {
+        "voted_answers": "A",
+        "vote_count": 2,
+        "is_most_voted": true
+      },
+      {
+        "voted_answers": "C",
+        "vote_count": 1,
+        "is_most_voted": false
+      }
+    ],
+    "scraped_at": "2025-11-29T19:58:33.316093"
+  },
+  {
+    "question_number": 99,
+    "question_id": "806907",
+    "url": "https://www.examtopics.com/discussions/python-institute/view/63947-exam-pcap-topic-1-question-99-discussion/",
+    "question_text": "What is true about Object-Oriented Programming in Python? (Choose two.)",
+    "has_images": false,
+    "images": [],
+    "choices": [
+      {
+        "letter": "A",
+        "text": "each object of the same class can have a different set of methods",
+        "is_correct": false
+      },
+      {
+        "letter": "B",
+        "text": "a subclass is usually more specialized than its superclassMost Voted",
+        "is_correct": true
+      },
+      {
+        "letter": "C",
+        "text": "if a real-life object can be described with a set of adjectives, they may reflect a Python object method",
+        "is_correct": false
+      },
+      {
+        "letter": "D",
+        "text": "the same class can be used many times to build a number of objectsMost Voted",
+        "is_correct": true
+      }
+    ],
+    "correct_answer": "BD",
+    "voting_data": [
+      {
+        "voted_answers": "BD",
+        "vote_count": 8,
+        "is_most_voted": true
+      }
+    ],
+    "scraped_at": "2025-11-29T19:58:39.054637"
+  },
+  {
+    "question_number": 100,
+    "question_id": "806908",
+    "url": "https://www.examtopics.com/discussions/python-institute/view/75145-exam-pcap-topic-1-question-100-discussion/",
+    "question_text": "What is true about Python class constructors? (Choose two.)",
+    "has_images": false,
+    "images": [],
+    "choices": [
+      {
+        "letter": "A",
+        "text": "there can be more than one constructor in a Python class",
+        "is_correct": false
+      },
+      {
+        "letter": "B",
+        "text": "the constructor must return a value other than None",
+        "is_correct": false
+      },
+      {
+        "letter": "C",
+        "text": "the constructor is a method named __init__Most Voted",
+        "is_correct": true
+      },
+      {
+        "letter": "D",
+        "text": "the constructor must have at least one parameterMost Voted",
+        "is_correct": true
+      }
+    ],
+    "correct_answer": "CD",
+    "voting_data": [
+      {
+        "voted_answers": "CD",
+        "vote_count": 4,
+        "is_most_voted": true
+      }
+    ],
+    "scraped_at": "2025-11-29T19:58:44.383727"
+  },
+  {
+    "question_number": 101,
+    "question_id": "806909",
+    "url": "https://www.examtopics.com/discussions/python-institute/view/64353-exam-pcap-topic-1-question-101-discussion/",
+    "question_text": "Assuming that the following piece of code has been executed successfully, which of the expressions evaluate to True? (Choose two.)",
+    "has_images": true,
+    "images": [
+      "https://www.examtopics.com/assets/media/exam-media/04235/0007600001.png"
+    ],
+    "choices": [
+      {
+        "letter": "A",
+        "text": "isinstance (obj_b,A)Most Voted",
+        "is_correct": true
+      },
+      {
+        "letter": "B",
+        "text": "A.VarA == 1Most Voted",
+        "is_correct": true
+      },
+      {
+        "letter": "C",
+        "text": "obj_a is obj_aa",
+        "is_correct": false
+      },
+      {
+        "letter": "D",
+        "text": "B.VarA == 1",
+        "is_correct": false
+      }
+    ],
+    "correct_answer": "AB",
+    "voting_data": [
+      {
+        "voted_answers": "AB",
+        "vote_count": 7,
+        "is_most_voted": true
+      }
+    ],
+    "scraped_at": "2025-11-29T19:58:49.743076"
+  },
+  {
+    "question_number": 102,
+    "question_id": "806910",
+    "url": "https://www.examtopics.com/discussions/python-institute/view/63948-exam-pcap-topic-1-question-102-discussion/",
+    "question_text": "Assuming that the code below has been executed successfully, which of the expressions evaluate to True? (Choose two.)",
+    "has_images": true,
+    "images": [
+      "https://www.examtopics.com/assets/media/exam-media/04235/0007700001.png"
+    ],
+    "choices": [
+      {
+        "letter": "A",
+        "text": "len(Class.__dict__) == 1",
+        "is_correct": false
+      },
+      {
+        "letter": "B",
+        "text": "'data' in Class.__dict__Most Voted",
+        "is_correct": true
+      },
+      {
+        "letter": "C",
+        "text": "'var' in Class.__dict__Most Voted",
+        "is_correct": true
+      },
+      {
+        "letter": "D",
+        "text": "'data' in Object.__dict__",
+        "is_correct": false
+      }
+    ],
+    "correct_answer": "BC",
+    "voting_data": [
+      {
+        "voted_answers": "BC",
+        "vote_count": 5,
+        "is_most_voted": true
+      },
+      {
+        "voted_answers": "B",
+        "vote_count": 1,
+        "is_most_voted": false
+      }
+    ],
+    "scraped_at": "2025-11-29T19:58:55.071329"
+  },
+  {
+    "question_number": 103,
+    "question_id": "806911",
+    "url": "https://www.examtopics.com/discussions/python-institute/view/74929-exam-pcap-topic-1-question-103-discussion/",
+    "question_text": "A property that stores information about a given class's super-classes is named:",
+    "has_images": false,
+    "images": [],
+    "choices": [
+      {
+        "letter": "A",
+        "text": "__upper__",
+        "is_correct": false
+      },
+      {
+        "letter": "B",
+        "text": "__super__",
+        "is_correct": false
+      },
+      {
+        "letter": "C",
+        "text": "__ancestors__",
+        "is_correct": false
+      },
+      {
+        "letter": "D",
+        "text": "__bases__Most Voted",
+        "is_correct": true
+      }
+    ],
+    "correct_answer": "D",
+    "voting_data": [
+      {
+        "voted_answers": "D",
+        "vote_count": 5,
+        "is_most_voted": true
+      }
+    ],
+    "scraped_at": "2025-11-29T19:59:00.551460"
+  },
+  {
+    "question_number": 104,
+    "question_id": "806912",
+    "url": "https://www.examtopics.com/discussions/python-institute/view/63954-exam-pcap-topic-1-question-104-discussion/",
+    "question_text": "Which of the following lines of code will work flawlessly when put independently inside the add_new() method in order to make the snippet's output equal to [0,1, 2]? (Choose two.)",
+    "has_images": true,
+    "images": [
+      "https://www.examtopics.com/assets/media/exam-media/04235/0007800001.png"
+    ],
+    "choices": [
+      {
+        "letter": "A",
+        "text": "self.queue.append(self.get_last() + 1)Most Voted",
+        "is_correct": true
+      },
+      {
+        "letter": "B",
+        "text": "self.queue.append(get_last() + 1)",
+        "is_correct": false
+      },
+      {
+        "letter": "C",
+        "text": "self.queue.append(self.queue[-1] + 1)Most Voted",
+        "is_correct": true
+      },
+      {
+        "letter": "D",
+        "text": "queue.append(self.get_last() + 1)",
+        "is_correct": false
+      }
+    ],
+    "correct_answer": "AC",
+    "voting_data": [
+      {
+        "voted_answers": "AC",
+        "vote_count": 5,
+        "is_most_voted": true
+      }
+    ],
+    "scraped_at": "2025-11-29T19:59:06.497965"
+  },
+  {
+    "question_number": 105,
+    "question_id": "806913",
+    "url": "https://www.examtopics.com/discussions/python-institute/view/75146-exam-pcap-topic-1-question-105-discussion/",
+    "question_text": "What is the expected output of the following code?",
+    "has_images": true,
+    "images": [
+      "https://www.examtopics.com/assets/media/exam-media/04235/0007900001.png"
+    ],
+    "choices": [
+      {
+        "letter": "A",
+        "text": "a",
+        "is_correct": false
+      },
+      {
+        "letter": "B",
+        "text": "cMost Voted",
+        "is_correct": true
+      },
+      {
+        "letter": "C",
+        "text": "an exception is raised",
+        "is_correct": false
+      },
+      {
+        "letter": "D",
+        "text": "b",
+        "is_correct": false
+      }
+    ],
+    "correct_answer": "B",
+    "voting_data": [
+      {
+        "voted_answers": "B",
+        "vote_count": 3,
+        "is_most_voted": true
+      }
+    ],
+    "scraped_at": "2025-11-29T19:59:11.935144"
+  },
+  {
+    "question_number": 106,
+    "question_id": "806914",
+    "url": "https://www.examtopics.com/discussions/python-institute/view/63955-exam-pcap-topic-1-question-106-discussion/",
+    "question_text": "What is the expected output of the following code if there is no file named non_existing_file inside the working directory?",
+    "has_images": true,
+    "images": [
+      "https://www.examtopics.com/assets/media/exam-media/04235/0008000001.png"
+    ],
+    "choices": [
+      {
+        "letter": "A",
+        "text": "1 2 4",
+        "is_correct": false
+      },
+      {
+        "letter": "B",
+        "text": "1 2 3 4",
+        "is_correct": false
+      },
+      {
+        "letter": "C",
+        "text": "2 4",
+        "is_correct": false
+      },
+      {
+        "letter": "D",
+        "text": "1 3Most Voted",
+        "is_correct": true
+      }
+    ],
+    "correct_answer": "D",
+    "voting_data": [
+      {
+        "voted_answers": "D",
+        "vote_count": 6,
+        "is_most_voted": true
+      }
+    ],
+    "scraped_at": "2025-11-29T19:59:17.565024"
+  },
+  {
+    "question_number": 107,
+    "question_id": "806915",
+    "url": "https://www.examtopics.com/discussions/python-institute/view/74193-exam-pcap-topic-1-question-107-discussion/",
+    "question_text": "What is the expected output of the following code if the file named existing_text_file is a non-zero length text file located inside the working directory?",
+    "has_images": true,
+    "images": [
+      "https://www.examtopics.com/assets/media/exam-media/04235/0008100001.png"
+    ],
+    "choices": [
+      {
+        "letter": "A",
+        "text": "the length of the first line from the file",
+        "is_correct": false
+      },
+      {
+        "letter": "B",
+        "text": "-1Most Voted",
+        "is_correct": true
+      },
+      {
+        "letter": "C",
+        "text": "the number of lines contained inside the file",
+        "is_correct": false
+      },
+      {
+        "letter": "D",
+        "text": "the length of the last line from the file",
+        "is_correct": false
+      }
+    ],
+    "correct_answer": "B",
+    "voting_data": [
+      {
+        "voted_answers": "B",
+        "vote_count": 4,
+        "is_most_voted": true
+      }
+    ],
+    "scraped_at": "2025-11-29T19:59:22.747513"
+  },
+  {
+    "question_number": 108,
+    "question_id": "806916",
+    "url": "https://www.examtopics.com/discussions/python-institute/view/64171-exam-pcap-topic-1-question-108-discussion/",
+    "question_text": "What is the expected behavior of the following code?",
+    "has_images": true,
+    "images": [
+      "https://www.examtopics.com/assets/media/exam-media/04235/0008100002.png"
+    ],
+    "choices": [
+      {
+        "letter": "A",
+        "text": "it outputs [1, 3]",
+        "is_correct": false
+      },
+      {
+        "letter": "B",
+        "text": "the code is erroneous and it will not execute",
+        "is_correct": false
+      },
+      {
+        "letter": "C",
+        "text": "it outputs [3, 1]Most Voted",
+        "is_correct": true
+      },
+      {
+        "letter": "D",
+        "text": "it outputs [4, 2, 0]",
+        "is_correct": false
+      }
+    ],
+    "correct_answer": "C",
+    "voting_data": [
+      {
+        "voted_answers": "C",
+        "vote_count": 8,
+        "is_most_voted": true
+      },
+      {
+        "voted_answers": "B",
+        "vote_count": 7,
+        "is_most_voted": false
+      }
+    ],
+    "scraped_at": "2025-11-29T19:59:28.450036"
+  },
+  {
+    "question_number": 109,
+    "question_id": "806917",
+    "url": "https://www.examtopics.com/discussions/python-institute/view/75148-exam-pcap-topic-1-question-109-discussion/",
+    "question_text": "Assuming that the following code has been executed successfully, which of the expressions evaluate to True? (Choose two.)",
+    "has_images": true,
+    "images": [
+      "https://www.examtopics.com/assets/media/exam-media/04235/0008200002.png"
+    ],
+    "choices": [
+      {
+        "letter": "A",
+        "text": "b() == 4",
+        "is_correct": false
+      },
+      {
+        "letter": "B",
+        "text": "a != bMost Voted",
+        "is_correct": true
+      },
+      {
+        "letter": "C",
+        "text": "a is not NoneMost Voted",
+        "is_correct": true
+      },
+      {
+        "letter": "D",
+        "text": "a() == 4",
+        "is_correct": false
+      }
+    ],
+    "correct_answer": "BC",
+    "voting_data": [
+      {
+        "voted_answers": "BC",
+        "vote_count": 6,
+        "is_most_voted": true
+      }
+    ],
+    "scraped_at": "2025-11-29T19:59:34.351406"
+  },
+  {
+    "question_number": 110,
+    "question_id": "806918",
+    "url": "https://www.examtopics.com/discussions/python-institute/view/72339-exam-pcap-topic-1-question-110-discussion/",
+    "question_text": "What is the expected output of the following code?",
+    "has_images": true,
+    "images": [
+      "https://www.examtopics.com/assets/media/exam-media/04235/0008300001.png"
+    ],
+    "choices": [
+      {
+        "letter": "A",
+        "text": "3Most Voted",
+        "is_correct": true
+      },
+      {
+        "letter": "B",
+        "text": "5",
+        "is_correct": false
+      },
+      {
+        "letter": "C",
+        "text": "4",
+        "is_correct": false
+      },
+      {
+        "letter": "D",
+        "text": "an exception is raised",
+        "is_correct": false
+      }
+    ],
+    "correct_answer": "A",
+    "voting_data": [
+      {
+        "voted_answers": "A",
+        "vote_count": 2,
+        "is_most_voted": true
+      }
+    ],
+    "scraped_at": "2025-11-29T19:59:39.880981"
+  },
+  {
+    "question_number": 111,
+    "question_id": "806919",
+    "url": "https://www.examtopics.com/discussions/python-institute/view/75150-exam-pcap-topic-1-question-111-discussion/",
+    "question_text": "Which of the following lambda definitions are correct? (Choose two.)",
+    "has_images": false,
+    "images": [],
+    "choices": [
+      {
+        "letter": "A",
+        "text": "lambda x,y: (x,y)Most Voted",
+        "is_correct": true
+      },
+      {
+        "letter": "B",
+        "text": "lambda x,y: return x//y - x%y",
+        "is_correct": false
+      },
+      {
+        "letter": "C",
+        "text": "lambda x,y: x//y - x%yMost Voted",
+        "is_correct": true
+      },
+      {
+        "letter": "D",
+        "text": "lambda x,y = x//y - x%y",
+        "is_correct": false
+      }
+    ],
+    "correct_answer": "AC",
+    "voting_data": [
+      {
+        "voted_answers": "AC",
+        "vote_count": 5,
+        "is_most_voted": true
+      }
+    ],
+    "scraped_at": "2025-11-29T19:59:45.835994"
+  },
+  {
+    "question_number": 112,
+    "question_id": "806920",
+    "url": "https://www.examtopics.com/discussions/python-institute/view/73512-exam-pcap-topic-1-question-112-discussion/",
+    "question_text": "Which of the following statements are true? (Choose two.)",
+    "has_images": false,
+    "images": [],
+    "choices": [
+      {
+        "letter": "A",
+        "text": "if invoking open () fails, an exception is raisedMost Voted",
+        "is_correct": true
+      },
+      {
+        "letter": "B",
+        "text": "open () requires a second argument",
+        "is_correct": false
+      },
+      {
+        "letter": "C",
+        "text": "open () is a function which returns an object that represents a physical fileMost Voted",
+        "is_correct": true
+      },
+      {
+        "letter": "D",
+        "text": "instd, outstd. errstd are the names of pre-opened streams",
+        "is_correct": false
+      }
+    ],
+    "correct_answer": "AC",
+    "voting_data": [
+      {
+        "voted_answers": "AC",
+        "vote_count": 6,
+        "is_most_voted": true
+      }
+    ],
+    "scraped_at": "2025-11-29T19:59:51.169098"
+  },
+  {
+    "question_number": 113,
+    "question_id": "806921",
+    "url": "https://www.examtopics.com/discussions/python-institute/view/75151-exam-pcap-topic-1-question-113-discussion/",
+    "question_text": "What is the expected behavior of the following code?",
+    "has_images": true,
+    "images": [
+      "https://www.examtopics.com/assets/media/exam-media/04235/0008500001.png"
+    ],
+    "choices": [
+      {
+        "letter": "A",
+        "text": "the code is erroneous and it will not execute",
+        "is_correct": false
+      },
+      {
+        "letter": "B",
+        "text": "it outputs 1",
+        "is_correct": false
+      },
+      {
+        "letter": "C",
+        "text": "it outputs -1",
+        "is_correct": false
+      },
+      {
+        "letter": "D",
+        "text": "it outputs 0Most Voted",
+        "is_correct": true
+      }
+    ],
+    "correct_answer": "D",
+    "voting_data": [
+      {
+        "voted_answers": "D",
+        "vote_count": 2,
+        "is_most_voted": true
+      }
+    ],
+    "scraped_at": "2025-11-29T19:59:56.458325"
+  },
+  {
+    "question_number": 114,
+    "question_id": "806922",
+    "url": "https://www.examtopics.com/discussions/python-institute/view/74485-exam-pcap-topic-1-question-114-discussion/",
+    "question_text": "Which of the following snippets will execute without raising any unhandled exceptions? (Choose two.)A.B.C.D.",
+    "has_images": true,
+    "images": [
+      "https://www.examtopics.com/assets/media/exam-media/04235/0008600001.png",
+      "https://www.examtopics.com/assets/media/exam-media/04235/0008600002.png",
+      "https://www.examtopics.com/assets/media/exam-media/04235/0008700001.png",
+      "https://www.examtopics.com/assets/media/exam-media/04235/0008700002.png"
+    ],
+    "choices": [],
+    "correct_answer": "D",
+    "voting_data": [],
+    "scraped_at": "2025-11-29T20:00:01.995437"
+  },
+  {
+    "question_number": 115,
+    "question_id": "806923",
+    "url": "https://www.examtopics.com/discussions/python-institute/view/74486-exam-pcap-topic-1-question-115-discussion/",
+    "question_text": "Which of the following expressions evaluate to True? (Choose two.)",
+    "has_images": false,
+    "images": [],
+    "choices": [
+      {
+        "letter": "A",
+        "text": "'8' + '8' !=2 * '8'",
+        "is_correct": false
+      },
+      {
+        "letter": "B",
+        "text": "'xYz'.lower() > 'XY'Most Voted",
+        "is_correct": true
+      },
+      {
+        "letter": "C",
+        "text": "float('3.14') == str('3.' + '14')",
+        "is_correct": false
+      },
+      {
+        "letter": "D",
+        "text": "121 + 1 ==int('1' + 2 * '2')Most Voted",
+        "is_correct": true
+      }
+    ],
+    "correct_answer": "BD",
+    "voting_data": [
+      {
+        "voted_answers": "BD",
+        "vote_count": 10,
+        "is_most_voted": true
+      }
+    ],
+    "scraped_at": "2025-11-29T20:00:07.388740"
+  },
+  {
+    "question_number": 116,
+    "question_id": "806924",
+    "url": "https://www.examtopics.com/discussions/python-institute/view/75152-exam-pcap-topic-1-question-116-discussion/",
+    "question_text": "What is the expected behavior of the following code?",
+    "has_images": true,
+    "images": [
+      "https://www.examtopics.com/assets/media/exam-media/04235/0008900001.png"
+    ],
+    "choices": [
+      {
+        "letter": "A",
+        "text": "it raises an exceptionMost Voted",
+        "is_correct": true
+      },
+      {
+        "letter": "B",
+        "text": "it outputs 3",
+        "is_correct": false
+      },
+      {
+        "letter": "C",
+        "text": "it outputs 1",
+        "is_correct": false
+      },
+      {
+        "letter": "D",
+        "text": "it outputs 6",
+        "is_correct": false
+      }
+    ],
+    "correct_answer": "A",
+    "voting_data": [
+      {
+        "voted_answers": "A",
+        "vote_count": 5,
+        "is_most_voted": true
+      }
+    ],
+    "scraped_at": "2025-11-29T20:00:13.048005"
+  },
+  {
+    "question_number": 117,
+    "question_id": "806925",
+    "url": "https://www.examtopics.com/discussions/python-institute/view/74933-exam-pcap-topic-1-question-117-discussion/",
+    "question_text": "What is the expected behavior of the following code?",
+    "has_images": true,
+    "images": [
+      "https://www.examtopics.com/assets/media/exam-media/04235/0009000002.png"
+    ],
+    "choices": [
+      {
+        "letter": "A",
+        "text": "the code is erroneous and it will not execute",
+        "is_correct": false
+      },
+      {
+        "letter": "B",
+        "text": "it outputs 2.0Most Voted",
+        "is_correct": true
+      },
+      {
+        "letter": "C",
+        "text": "it outputs 2.5",
+        "is_correct": false
+      },
+      {
+        "letter": "D",
+        "text": "it outputs 3.0",
+        "is_correct": false
+      }
+    ],
+    "correct_answer": "B",
+    "voting_data": [
+      {
+        "voted_answers": "B",
+        "vote_count": 5,
+        "is_most_voted": true
+      }
+    ],
+    "scraped_at": "2025-11-29T20:00:18.588577"
+  },
+  {
+    "question_number": 118,
+    "question_id": "806926",
+    "url": "https://www.examtopics.com/discussions/python-institute/view/75153-exam-pcap-topic-1-question-118-discussion/",
+    "question_text": "What is the expected behavior of the following code?",
+    "has_images": true,
+    "images": [
+      "https://www.examtopics.com/assets/media/exam-media/04235/0009100002.png"
+    ],
+    "choices": [
+      {
+        "letter": "A",
+        "text": "it outputs [4, 2]",
+        "is_correct": false
+      },
+      {
+        "letter": "B",
+        "text": "it outputs [2, 4]",
+        "is_correct": false
+      },
+      {
+        "letter": "C",
+        "text": "it outputs [0, 1, 2, 3, 4]",
+        "is_correct": false
+      },
+      {
+        "letter": "D",
+        "text": "the code is erroneous and it will not executeMost Voted",
+        "is_correct": true
+      }
+    ],
+    "correct_answer": "D",
+    "voting_data": [
+      {
+        "voted_answers": "D",
+        "vote_count": 5,
+        "is_most_voted": true
+      },
+      {
+        "voted_answers": "A",
+        "vote_count": 5,
+        "is_most_voted": false
+      }
+    ],
+    "scraped_at": "2025-11-29T20:00:23.971733"
+  },
+  {
+    "question_number": 119,
+    "question_id": "806927",
+    "url": "https://www.examtopics.com/discussions/python-institute/view/76480-exam-pcap-topic-1-question-119-discussion/",
+    "question_text": "The __bases__ property contains:",
+    "has_images": false,
+    "images": [],
+    "choices": [
+      {
+        "letter": "A",
+        "text": "base class location (addr)",
+        "is_correct": false
+      },
+      {
+        "letter": "B",
+        "text": "base class objects (class)Most Voted",
+        "is_correct": true
+      },
+      {
+        "letter": "C",
+        "text": "base class names (str)",
+        "is_correct": false
+      },
+      {
+        "letter": "D",
+        "text": "base class ids (int)",
+        "is_correct": false
+      }
+    ],
+    "correct_answer": "B",
+    "voting_data": [
+      {
+        "voted_answers": "C",
+        "vote_count": 3,
+        "is_most_voted": false
+      },
+      {
+        "voted_answers": "B",
+        "vote_count": 2,
+        "is_most_voted": true
+      }
+    ],
+    "scraped_at": "2025-11-29T20:00:29.638276"
+  },
+  {
+    "question_number": 120,
+    "question_id": "806928",
+    "url": "https://www.examtopics.com/discussions/python-institute/view/74941-exam-pcap-topic-1-question-120-discussion/",
+    "question_text": "What is the expected behavior of the following code?",
+    "has_images": true,
+    "images": [
+      "https://www.examtopics.com/assets/media/exam-media/04235/0009300001.png"
+    ],
+    "choices": [
+      {
+        "letter": "A",
+        "text": "it outputs 0",
+        "is_correct": false
+      },
+      {
+        "letter": "B",
+        "text": "it raises an exceptionMost Voted",
+        "is_correct": true
+      },
+      {
+        "letter": "C",
+        "text": "it outputs 1",
+        "is_correct": false
+      },
+      {
+        "letter": "D",
+        "text": "it outputs 2",
+        "is_correct": false
+      }
+    ],
+    "correct_answer": "B",
+    "voting_data": [
+      {
+        "voted_answers": "B",
+        "vote_count": 5,
+        "is_most_voted": true
+      }
+    ],
+    "scraped_at": "2025-11-29T20:00:35.383684"
+  },
+  {
+    "question_number": 121,
+    "question_id": "806929",
+    "url": "https://www.examtopics.com/discussions/python-institute/view/77274-exam-pcap-topic-1-question-121-discussion/",
+    "question_text": "Which of the following statements are true? (Choose two.)",
+    "has_images": false,
+    "images": [],
+    "choices": [
+      {
+        "letter": "A",
+        "text": "an escape sequence can be recognized by the / sign put in front of it",
+        "is_correct": false
+      },
+      {
+        "letter": "B",
+        "text": "II in ASCII stands for Internal Information",
+        "is_correct": false
+      },
+      {
+        "letter": "C",
+        "text": "ASCII is a subset of UNICODEMost Voted",
+        "is_correct": true
+      },
+      {
+        "letter": "D",
+        "text": "a code point is a number assigned to a given characterMost Voted",
+        "is_correct": true
+      }
+    ],
+    "correct_answer": "CD",
+    "voting_data": [
+      {
+        "voted_answers": "CD",
+        "vote_count": 7,
+        "is_most_voted": true
+      },
+      {
+        "voted_answers": "BD",
+        "vote_count": 1,
+        "is_most_voted": false
+      }
+    ],
+    "scraped_at": "2025-11-29T20:00:40.565430"
+  },
+  {
+    "question_number": 122,
+    "question_id": "806930",
+    "url": "https://www.examtopics.com/discussions/python-institute/view/75154-exam-pcap-topic-1-question-122-discussion/",
+    "question_text": "What is the expected behavior of the following code?",
+    "has_images": true,
+    "images": [
+      "https://www.examtopics.com/assets/media/exam-media/04235/0009400001.png"
+    ],
+    "choices": [
+      {
+        "letter": "A",
+        "text": "it outputs 321",
+        "is_correct": false
+      },
+      {
+        "letter": "B",
+        "text": "it outputs 123",
+        "is_correct": false
+      },
+      {
+        "letter": "C",
+        "text": "it outputs 6Most Voted",
+        "is_correct": true
+      },
+      {
+        "letter": "D",
+        "text": "it raises an exception",
+        "is_correct": false
+      }
+    ],
+    "correct_answer": "C",
+    "voting_data": [
+      {
+        "voted_answers": "C",
+        "vote_count": 2,
+        "is_most_voted": true
+      }
+    ],
+    "scraped_at": "2025-11-29T20:00:46.433153"
+  },
+  {
+    "question_number": 123,
+    "question_id": "806931",
+    "url": "https://www.examtopics.com/discussions/python-institute/view/74943-exam-pcap-topic-1-question-123-discussion/",
+    "question_text": "A Python module named pymod.py contains a variable named pyvar.Which of the following snippets will let you access the variable? (Choose two.)",
+    "has_images": false,
+    "images": [],
+    "choices": [
+      {
+        "letter": "A",
+        "text": "import pymod pymod.pyvar = 1Most Voted",
+        "is_correct": true
+      },
+      {
+        "letter": "B",
+        "text": "import pyvar from pymod pyvar = 1",
+        "is_correct": false
+      },
+      {
+        "letter": "C",
+        "text": "from pymod import pyvar pyvar ()",
+        "is_correct": false
+      },
+      {
+        "letter": "D",
+        "text": "from pyfun import * pyvar = 1",
+        "is_correct": false
+      }
+    ],
+    "correct_answer": "A",
+    "voting_data": [
+      {
+        "voted_answers": "A",
+        "vote_count": 3,
+        "is_most_voted": true
+      },
+      {
+        "voted_answers": "D",
+        "vote_count": 2,
+        "is_most_voted": false
+      }
+    ],
+    "scraped_at": "2025-11-29T20:00:51.826304"
+  },
+  {
+    "question_number": 124,
+    "question_id": "806932",
+    "url": "https://www.examtopics.com/discussions/python-institute/view/75155-exam-pcap-topic-1-question-124-discussion/",
+    "question_text": "Which of the following expressions evaluate to True? (Choose two.)",
+    "has_images": false,
+    "images": [],
+    "choices": [
+      {
+        "letter": "A",
+        "text": "ord(ג€zג€) - ord(ג€Zג€) == ord(ג€0ג€)",
+        "is_correct": false
+      },
+      {
+        "letter": "B",
+        "text": "len(ג€ג€ג€ ג€ג€ג€) > 0Most Voted",
+        "is_correct": true
+      },
+      {
+        "letter": "C",
+        "text": "chr(ord('a') + 1) == 'B'",
+        "is_correct": false
+      },
+      {
+        "letter": "D",
+        "text": "len('\\'') == 1Most Voted",
+        "is_correct": true
+      }
+    ],
+    "correct_answer": "BD",
+    "voting_data": [
+      {
+        "voted_answers": "BD",
+        "vote_count": 9,
+        "is_most_voted": true
+      }
+    ],
+    "scraped_at": "2025-11-29T20:00:57.146729"
+  },
+  {
+    "question_number": 125,
+    "question_id": "806933",
+    "url": "https://www.examtopics.com/discussions/python-institute/view/75625-exam-pcap-topic-1-question-125-discussion/",
+    "question_text": "What is the expected output of the following code if the file named non_zero_length_existing_text_file is a non-zero length file located inside the working directory?",
+    "has_images": true,
+    "images": [
+      "https://www.examtopics.com/assets/media/exam-media/04235/0009700001.png"
+    ],
+    "choices": [
+      {
+        "letter": "A",
+        "text": "-1",
+        "is_correct": false
+      },
+      {
+        "letter": "B",
+        "text": "0",
+        "is_correct": false
+      },
+      {
+        "letter": "C",
+        "text": "an errno value corresponding to file not found",
+        "is_correct": false
+      },
+      {
+        "letter": "D",
+        "text": "1Most Voted",
+        "is_correct": true
+      }
+    ],
+    "correct_answer": "D",
+    "voting_data": [
+      {
+        "voted_answers": "D",
+        "vote_count": 13,
+        "is_most_voted": true
+      },
+      {
+        "voted_answers": "A",
+        "vote_count": 2,
+        "is_most_voted": false
+      }
+    ],
+    "scraped_at": "2025-11-29T20:01:02.859412"
+  },
+  {
+    "question_number": 126,
+    "question_id": "806934",
+    "url": "https://www.examtopics.com/discussions/python-institute/view/75156-exam-pcap-topic-1-question-126-discussion/",
+    "question_text": "Assuming that the code below has been executed successfully, which of the expressions evaluate to True? (Choose two.)",
+    "has_images": true,
+    "images": [
+      "https://www.examtopics.com/assets/media/exam-media/04235/0009800001.png"
+    ],
+    "choices": [
+      {
+        "letter": "A",
+        "text": "'var' in Class.__dict__Most Voted",
+        "is_correct": true
+      },
+      {
+        "letter": "B",
+        "text": "'var' in Object.__dict__",
+        "is_correct": false
+      },
+      {
+        "letter": "C",
+        "text": "len(Object.__dict__) == 1Most Voted",
+        "is_correct": true
+      },
+      {
+        "letter": "D",
+        "text": "'prop' in Class.__dict__",
+        "is_correct": false
+      }
+    ],
+    "correct_answer": "AC",
+    "voting_data": [
+      {
+        "voted_answers": "AC",
+        "vote_count": 6,
+        "is_most_voted": true
+      }
+    ],
+    "scraped_at": "2025-11-29T20:01:08.200702"
+  },
+  {
+    "question_number": 127,
+    "question_id": "806935",
+    "url": "https://www.examtopics.com/discussions/python-institute/view/75157-exam-pcap-topic-1-question-127-discussion/",
+    "question_text": "What is the expected behavior of the following code?",
+    "has_images": true,
+    "images": [
+      "https://www.examtopics.com/assets/media/exam-media/04235/0009800002.png"
+    ],
+    "choices": [
+      {
+        "letter": "A",
+        "text": "it raises an exceptionMost Voted",
+        "is_correct": true
+      },
+      {
+        "letter": "B",
+        "text": "it outputs nothing",
+        "is_correct": false
+      },
+      {
+        "letter": "C",
+        "text": "it outputs True",
+        "is_correct": false
+      },
+      {
+        "letter": "D",
+        "text": "it outputs False",
+        "is_correct": false
+      }
+    ],
+    "correct_answer": "A",
+    "voting_data": [
+      {
+        "voted_answers": "A",
+        "vote_count": 1,
+        "is_most_voted": true
+      },
+      {
+        "voted_answers": "D",
+        "vote_count": 1,
+        "is_most_voted": false
+      }
+    ],
+    "scraped_at": "2025-11-29T20:01:14.189196"
+  },
+  {
+    "question_number": 128,
+    "question_id": "806936",
+    "url": "https://www.examtopics.com/discussions/python-institute/view/75158-exam-pcap-topic-1-question-128-discussion/",
+    "question_text": "Assuming that the code below has been executed successfully, which of the following expressions will always evaluate to True? (Choose two.)",
+    "has_images": true,
+    "images": [
+      "https://www.examtopics.com/assets/media/exam-media/04235/0009900002.png"
+    ],
+    "choices": [
+      {
+        "letter": "A",
+        "text": "v1 == v2",
+        "is_correct": false
+      },
+      {
+        "letter": "B",
+        "text": "v1 < 1Most Voted",
+        "is_correct": true
+      },
+      {
+        "letter": "C",
+        "text": "random.choice([1,2,3]) > 0Most Voted",
+        "is_correct": true
+      },
+      {
+        "letter": "D",
+        "text": "len(random.sample([1,2,3],1)) > 2",
+        "is_correct": false
+      }
+    ],
+    "correct_answer": "BC",
+    "voting_data": [
+      {
+        "voted_answers": "BC",
+        "vote_count": 5,
+        "is_most_voted": true
+      }
+    ],
+    "scraped_at": "2025-11-29T20:01:19.517930"
+  },
+  {
+    "question_number": 129,
+    "question_id": "806937",
+    "url": "https://www.examtopics.com/discussions/python-institute/view/75159-exam-pcap-topic-1-question-129-discussion/",
+    "question_text": "With regards to the directory structure below, select the proper forms of the directives in order to import module_b. (Choose two.)",
+    "has_images": true,
+    "images": [
+      "https://www.examtopics.com/assets/media/exam-media/04235/0010000001.png"
+    ],
+    "choices": [
+      {
+        "letter": "A",
+        "text": "from pyback.upper import module_bMost Voted",
+        "is_correct": true
+      },
+      {
+        "letter": "B",
+        "text": "import pyback.upper.module_b",
+        "is_correct": false
+      },
+      {
+        "letter": "C",
+        "text": "import upper.module_b",
+        "is_correct": false
+      },
+      {
+        "letter": "D",
+        "text": "import module_b",
+        "is_correct": false
+      }
+    ],
+    "correct_answer": "A",
+    "voting_data": [
+      {
+        "voted_answers": "A",
+        "vote_count": 14,
+        "is_most_voted": true
+      },
+      {
+        "voted_answers": "B",
+        "vote_count": 2,
+        "is_most_voted": false
+      }
+    ],
+    "scraped_at": "2025-11-29T20:01:25.581329"
+  },
+  {
+    "question_number": 130,
+    "question_id": "806938",
+    "url": "https://www.examtopics.com/discussions/python-institute/view/75160-exam-pcap-topic-1-question-130-discussion/",
+    "question_text": "Which of the following lines of code will work flawlessly when out independently inside the inc() method in order to make the snippet's output equal to 3?(Choose two.)",
+    "has_images": true,
+    "images": [
+      "https://www.examtopics.com/assets/media/exam-media/04235/0010200001.png"
+    ],
+    "choices": [
+      {
+        "letter": "A",
+        "text": "put(self.prop + val)",
+        "is_correct": false
+      },
+      {
+        "letter": "B",
+        "text": "self.put(get() + val)",
+        "is_correct": false
+      },
+      {
+        "letter": "C",
+        "text": "self.put(self.get() + val)Most Voted",
+        "is_correct": true
+      },
+      {
+        "letter": "D",
+        "text": "self.put(self.prop + val)Most Voted",
+        "is_correct": true
+      }
+    ],
+    "correct_answer": "CD",
+    "voting_data": [
+      {
+        "voted_answers": "CD",
+        "vote_count": 3,
+        "is_most_voted": true
+      }
+    ],
+    "scraped_at": "2025-11-29T20:01:30.917209"
+  },
+  {
+    "question_number": 131,
+    "question_id": "806939",
+    "url": "https://www.examtopics.com/discussions/python-institute/view/75161-exam-pcap-topic-1-question-131-discussion/",
+    "question_text": "What is the expected output of the following code?",
+    "has_images": true,
+    "images": [
+      "https://www.examtopics.com/assets/media/exam-media/04235/0010400001.png"
+    ],
+    "choices": [
+      {
+        "letter": "A",
+        "text": "FalseMost Voted",
+        "is_correct": true
+      },
+      {
+        "letter": "B",
+        "text": "0",
+        "is_correct": false
+      },
+      {
+        "letter": "C",
+        "text": "None",
+        "is_correct": false
+      },
+      {
+        "letter": "D",
+        "text": "True",
+        "is_correct": false
+      }
+    ],
+    "correct_answer": "A",
+    "voting_data": [
+      {
+        "voted_answers": "A",
+        "vote_count": 5,
+        "is_most_voted": true
+      }
+    ],
+    "scraped_at": "2025-11-29T20:01:36.238692"
+  },
+  {
+    "question_number": 132,
+    "question_id": "806940",
+    "url": "https://www.examtopics.com/discussions/python-institute/view/76021-exam-pcap-topic-1-question-132-discussion/",
+    "question_text": "What is true about Python class constructors? (Choose two.)",
+    "has_images": false,
+    "images": [],
+    "choices": [
+      {
+        "letter": "A",
+        "text": "there can be only one constructor in a Python classMost Voted",
+        "is_correct": true
+      },
+      {
+        "letter": "B",
+        "text": "the constructor cannot be invoked directly under any circumstances",
+        "is_correct": false
+      },
+      {
+        "letter": "C",
+        "text": "the constructor cannot return a result other than NoneMost Voted",
+        "is_correct": true
+      },
+      {
+        "letter": "D",
+        "text": "the constructor's first parameter must always be named self",
+        "is_correct": false
+      }
+    ],
+    "correct_answer": "AC",
+    "voting_data": [
+      {
+        "voted_answers": "AC",
+        "vote_count": 7,
+        "is_most_voted": true
+      },
+      {
+        "voted_answers": "CD",
+        "vote_count": 6,
+        "is_most_voted": false
+      },
+      {
+        "voted_answers": "BC",
+        "vote_count": 4,
+        "is_most_voted": false
+      }
+    ],
+    "scraped_at": "2025-11-29T20:01:41.746194"
+  },
+  {
+    "question_number": 133,
+    "question_id": "806941",
+    "url": "https://www.examtopics.com/discussions/python-institute/view/75162-exam-pcap-topic-1-question-133-discussion/",
+    "question_text": "What is the expected behavior of the following code?",
+    "has_images": true,
+    "images": [
+      "https://www.examtopics.com/assets/media/exam-media/04235/0010500001.png"
+    ],
+    "choices": [
+      {
+        "letter": "A",
+        "text": "4",
+        "is_correct": false
+      },
+      {
+        "letter": "B",
+        "text": "3",
+        "is_correct": false
+      },
+      {
+        "letter": "C",
+        "text": "an exception is raised",
+        "is_correct": false
+      },
+      {
+        "letter": "D",
+        "text": "5Most Voted",
+        "is_correct": true
+      }
+    ],
+    "correct_answer": "D",
+    "voting_data": [
+      {
+        "voted_answers": "D",
+        "vote_count": 8,
+        "is_most_voted": true
+      }
+    ],
+    "scraped_at": "2025-11-29T20:01:47.296648"
+  },
+  {
+    "question_number": 134,
+    "question_id": "806942",
+    "url": "https://www.examtopics.com/discussions/python-institute/view/74954-exam-pcap-topic-1-question-134-discussion/",
+    "question_text": "Assuming that the following inheritance set is in force, which of the following classes are declared properly? (Choose two.)",
+    "has_images": true,
+    "images": [
+      "https://www.examtopics.com/assets/media/exam-media/04235/0010600002.png"
+    ],
+    "choices": [
+      {
+        "letter": "A",
+        "text": "class Class_3(A,C): pass",
+        "is_correct": false
+      },
+      {
+        "letter": "B",
+        "text": "class Class_4(C,B): passMost Voted",
+        "is_correct": true
+      },
+      {
+        "letter": "C",
+        "text": "class Class_1(D): passMost Voted",
+        "is_correct": true
+      },
+      {
+        "letter": "D",
+        "text": "class Class_2(A,B): pass",
+        "is_correct": false
+      }
+    ],
+    "correct_answer": "BC",
+    "voting_data": [
+      {
+        "voted_answers": "BC",
+        "vote_count": 7,
+        "is_most_voted": true
+      }
+    ],
+    "scraped_at": "2025-11-29T20:01:52.835996"
+  },
+  {
+    "question_number": 135,
+    "question_id": "806943",
+    "url": "https://www.examtopics.com/discussions/python-institute/view/75163-exam-pcap-topic-1-question-135-discussion/",
+    "question_text": "What is the expected behavior of the following code?",
+    "has_images": true,
+    "images": [
+      "https://www.examtopics.com/assets/media/exam-media/04235/0010700001.png"
+    ],
+    "choices": [
+      {
+        "letter": "A",
+        "text": "it outputs 0",
+        "is_correct": false
+      },
+      {
+        "letter": "B",
+        "text": "the code is erroneous and it will not execute",
+        "is_correct": false
+      },
+      {
+        "letter": "C",
+        "text": "it outputs 1",
+        "is_correct": false
+      },
+      {
+        "letter": "D",
+        "text": "it outputs 2Most Voted",
+        "is_correct": true
+      }
+    ],
+    "correct_answer": "D",
+    "voting_data": [
+      {
+        "voted_answers": "D",
+        "vote_count": 3,
+        "is_most_voted": true
+      }
+    ],
+    "scraped_at": "2025-11-29T20:01:58.361377"
+  },
+  {
+    "question_number": 136,
+    "question_id": "806944",
+    "url": "https://www.examtopics.com/discussions/python-institute/view/75164-exam-pcap-topic-1-question-136-discussion/",
+    "question_text": "Which of the following expressions evaluate to True? (Choose two.)",
+    "has_images": false,
+    "images": [],
+    "choices": [
+      {
+        "letter": "A",
+        "text": "'in' in 'Thames'",
+        "is_correct": false
+      },
+      {
+        "letter": "B",
+        "text": "'in' in 'in'Most Voted",
+        "is_correct": true
+      },
+      {
+        "letter": "C",
+        "text": "'in not' in 'not'",
+        "is_correct": false
+      },
+      {
+        "letter": "D",
+        "text": "'t'.upper() in 'Thames'Most Voted",
+        "is_correct": true
+      }
+    ],
+    "correct_answer": "BD",
+    "voting_data": [
+      {
+        "voted_answers": "BD",
+        "vote_count": 4,
+        "is_most_voted": true
+      }
+    ],
+    "scraped_at": "2025-11-29T20:02:03.675555"
+  },
+  {
+    "question_number": 137,
+    "question_id": "806945",
+    "url": "https://www.examtopics.com/discussions/python-institute/view/75165-exam-pcap-topic-1-question-137-discussion/",
+    "question_text": "What is the expected behavior of the following code?",
+    "has_images": true,
+    "images": [
+      "https://www.examtopics.com/assets/media/exam-media/04235/0011000001.png"
+    ],
+    "choices": [
+      {
+        "letter": "A",
+        "text": "it outputs 2",
+        "is_correct": false
+      },
+      {
+        "letter": "B",
+        "text": "it raises an exception",
+        "is_correct": false
+      },
+      {
+        "letter": "C",
+        "text": "it outputs 1Most Voted",
+        "is_correct": true
+      },
+      {
+        "letter": "D",
+        "text": "it outputs 0",
+        "is_correct": false
+      }
+    ],
+    "correct_answer": "C",
+    "voting_data": [
+      {
+        "voted_answers": "C",
+        "vote_count": 3,
+        "is_most_voted": true
+      }
+    ],
+    "scraped_at": "2025-11-29T20:02:09.180659"
+  },
+  {
+    "question_number": 138,
+    "question_id": "806946",
+    "url": "https://www.examtopics.com/discussions/python-institute/view/75166-exam-pcap-topic-1-question-138-discussion/",
+    "question_text": "Which of the following invocations are valid? (Choose two.)",
+    "has_images": false,
+    "images": [],
+    "choices": [
+      {
+        "letter": "A",
+        "text": "sort(ג€pythonג€)",
+        "is_correct": false
+      },
+      {
+        "letter": "B",
+        "text": "ג€pythonג€.find(ג€ג€)Most Voted",
+        "is_correct": true
+      },
+      {
+        "letter": "C",
+        "text": "ג€pythonג€.rindex(ג€thג€)Most Voted",
+        "is_correct": true
+      },
+      {
+        "letter": "D",
+        "text": "'python'.sorted()",
+        "is_correct": false
+      }
+    ],
+    "correct_answer": "BC",
+    "voting_data": [
+      {
+        "voted_answers": "BC",
+        "vote_count": 3,
+        "is_most_voted": true
+      }
+    ],
+    "scraped_at": "2025-11-29T20:02:14.705779"
+  },
+  {
+    "question_number": 139,
+    "question_id": "806947",
+    "url": "https://www.examtopics.com/discussions/python-institute/view/75167-exam-pcap-topic-1-question-139-discussion/",
+    "question_text": "What is the expected output of the following snippet?",
+    "has_images": true,
+    "images": [
+      "https://www.examtopics.com/assets/media/exam-media/04235/0011200001.png"
+    ],
+    "choices": [
+      {
+        "letter": "A",
+        "text": "True lower",
+        "is_correct": false
+      },
+      {
+        "letter": "B",
+        "text": "True upperMost Voted",
+        "is_correct": true
+      },
+      {
+        "letter": "C",
+        "text": "False upper",
+        "is_correct": false
+      },
+      {
+        "letter": "D",
+        "text": "False lower",
+        "is_correct": false
+      }
+    ],
+    "correct_answer": "B",
+    "voting_data": [
+      {
+        "voted_answers": "B",
+        "vote_count": 3,
+        "is_most_voted": true
+      }
+    ],
+    "scraped_at": "2025-11-29T20:02:20.430178"
+  },
+  {
+    "question_number": 140,
+    "question_id": "806948",
+    "url": "https://www.examtopics.com/discussions/python-institute/view/74955-exam-pcap-topic-1-question-140-discussion/",
+    "question_text": "Assuming that the snippet below has been executed successfully, which of the following expressions evaluate to True? (Choose two.) string = 'SKY'[::-1] string = string[-1]",
+    "has_images": false,
+    "images": [],
+    "choices": [
+      {
+        "letter": "A",
+        "text": "string[0] == 'Y'",
+        "is_correct": false
+      },
+      {
+        "letter": "B",
+        "text": "string[0] == string [-1]Most Voted",
+        "is_correct": true
+      },
+      {
+        "letter": "C",
+        "text": "string is None",
+        "is_correct": false
+      },
+      {
+        "letter": "D",
+        "text": "len(string) == 1Most Voted",
+        "is_correct": true
+      }
+    ],
+    "correct_answer": "BD",
+    "voting_data": [
+      {
+        "voted_answers": "BD",
+        "vote_count": 10,
+        "is_most_voted": true
+      }
+    ],
+    "scraped_at": "2025-11-29T20:02:26.101256"
+  },
+  {
+    "question_number": 141,
+    "question_id": "806949",
+    "url": "https://www.examtopics.com/discussions/python-institute/view/74956-exam-pcap-topic-1-question-141-discussion/",
+    "question_text": "Assuming that the code below has been placed inside a file named code.py and executed successfully, which of the following expressions evaluate to True?(Choose two.)",
+    "has_images": true,
+    "images": [
+      "https://www.examtopics.com/assets/media/exam-media/04235/0011500001.png"
+    ],
+    "choices": [
+      {
+        "letter": "A",
+        "text": "ClassA.__module__ == '__main__'Most Voted",
+        "is_correct": true
+      },
+      {
+        "letter": "B",
+        "text": "__name__ == '__main__'Most Voted",
+        "is_correct": true
+      },
+      {
+        "letter": "C",
+        "text": "str(Object) == 'Object'",
+        "is_correct": false
+      },
+      {
+        "letter": "D",
+        "text": "len(ClassB.__bases__) == 2",
+        "is_correct": false
+      }
+    ],
+    "correct_answer": "AB",
+    "voting_data": [
+      {
+        "voted_answers": "AB",
+        "vote_count": 4,
+        "is_most_voted": true
+      }
+    ],
+    "scraped_at": "2025-11-29T20:02:32.330134"
+  }
+]

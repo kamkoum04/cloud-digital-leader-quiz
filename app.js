@@ -109,7 +109,7 @@ function displayQuestion() {
         answerDiv.innerHTML = `
             <div class="answer-letter">${choice.letter}</div>
             <div>
-                <div class="answer-text">${choice.text}</div>
+                <div class="answer-text">${choice.text.replace(/Most Voted/gi, '')}</div>
                 ${answered.has(currentQuestionIndex) ? getAnswerFeedback(choice.letter, question.correct_answer) : ''}
             </div>
         `;
